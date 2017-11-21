@@ -53,13 +53,15 @@ Please see our project development pages located at Sourceforge as well.
 
 查看snmpd服务启动的时长
 
-    snmpget -v 2c -c public 10.89.208.205 SNMPv2-MIB::sysUpTime.0
+    snmpget -v 2c -c public 127.0.0.1 SNMPv2-MIB::sysUpTime.0
 
 
 
 
+查看系统启动时间
 
-
+    snmpget -v 2c -c public 127.0.0.1 HOST-RESOURCES-MIB::hrSystemUptime.0
+    
 
 
 
