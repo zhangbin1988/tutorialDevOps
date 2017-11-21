@@ -40,6 +40,13 @@ Please see our project development pages located at Sourceforge as well.
 
 
 
+## 安装及配置 SNMP  
+
+    yum install net-snmp net-snmp-devel net-snmp-utils
+    
+    
+
+
 
 
 
