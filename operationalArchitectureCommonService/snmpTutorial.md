@@ -71,6 +71,18 @@ Please see our project development pages located at Sourceforge as well.
 
 
 
+## [SNMP Trap](http://www.net-snmp.org/docs/man/snmptrap.html)
+
+snmptrap, snmpinform - sends an SNMP notification to a manager
+
+snmptrap is an SNMP application that uses the SNMP TRAP operation to send information to a network manager. 
+
+One or more object identifiers (OIDs) can be given as arguments on the command line. 
+
+A type and a value must accompany each object identifier. 
+
+Each variable name is given in the format specified in variables(5).
+
 
 
 
