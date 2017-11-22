@@ -63,8 +63,11 @@ Please see our project development pages located at Sourceforge as well.
     snmpget -v 2c -c public 127.0.0.1 HOST-RESOURCES-MIB::hrSystemUptime.0
     
 
+查看系统的磁盘空间使用情况
 
-
+    snmpdf -v 2c -c public localhost
+    
+    
 
 
 
