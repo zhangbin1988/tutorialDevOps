@@ -16,8 +16,8 @@
 
 **2017.12.1**
 
-1, 整理Zabbix SNMP Trap 相关资料，教程梳理
+* 整理Zabbix SNMP Trap 相关资料，教程梳理
 
-2, Python第二节课的培训讲解
+* Python第二节课的培训讲解
 
-3, Django的学习 
+* Django的学习 
