@@ -20,8 +20,8 @@
 #### 12.04--12.08
 * SNMP Trap Zabbix 数据流打通
 * Django 写一个简单的网站
-* Ansible Playbook 的学习
-
+* Ansible Playbook 的学习及技术分享
+* markdown简单语法的技术分享
 
 **2017.12.08**
 
@@ -40,6 +40,9 @@
 
 
 **2017.12.04**
+
+* markdown 语法学习
+* markdown ppt 简单培训 ppt
 
 
 
