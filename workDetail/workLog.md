@@ -37,9 +37,9 @@
 
 **2017.12.05**
 
-* 用markdown写一个markdown教程
-  * 第一版
-  * 初级教程
+* [ ] 用markdown写一个markdown教程
+  *  [ ] 第一版
+  * [ ]  初级教程
   
 
 
