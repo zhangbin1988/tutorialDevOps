@@ -37,10 +37,14 @@
 
 **2017.12.05**
 
-* [ ] 用markdown写一个markdown教程
+* [x] 用markdown写一个markdown教程
   *  [x] 第一版
-  * [ ]  初级教程
-  
+  * [x]  初级教程
+
+* [ ] 整理Zabbix的官网教程到xmind
+  *  [ ] snmp 方式
+  * [ ]  trap 相关章节
+
 
 
 **2017.12.04**
