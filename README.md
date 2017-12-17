@@ -4,8 +4,11 @@
 
 ## 智能运维平台
 
+### 全方位立体式多维智能监控平台 （Zabbix）
 
-
+* SNMP 
+  * snmp trap
+  * snmp get 
 
 
 
