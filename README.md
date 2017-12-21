@@ -32,9 +32,12 @@
 
 ## 运维架构与常见服务
 
-### snmp 简单网络管理协议之学习路线
+### [snmp 简单网络管理协议之学习路线](https://github.com/shower2013/tutorialDevOps/blob/master/operationalArchitectureCommonService/snmpTutorial.md)
+     * [snmptrap](https://github.com/shower2013/tutorialDevOps/blob/master/operationalArchitectureCommonService/snmpTrap.md)
 
-### ansible教程
+### [ansible教程](https://github.com/shower2013/tutorialDevOps/blob/master/operationalArchitectureCommonService/ansibleTutorial.md)
+
+
 
 
 
