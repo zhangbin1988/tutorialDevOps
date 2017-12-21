@@ -8,6 +8,72 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 模块  
+
+
+### [**All Modules**](http://docs.ansible.com/ansible/latest/modules_by_category.html)
+
+
+* Cloud Modules
+* Clustering Modules
+* Commands Modules
+* Crypto Modules
+* Database Modules
+* Files Modules
+* Identity Modules
+* Inventory Modules
+* Messaging Modules
+* Monitoring Modules
+* Net Tools Modules
+* Network Modules
+* Notification Modules
+* Packaging Modules
+* Remote Management Modules
+* Source Control Modules
+* Storage Modules
+* [System Modules](http://docs.ansible.com/ansible/latest/list_of_system_modules.html)
+
+* Utilities Modules
+* Web Infrastructure Modules
+* Windows Modules
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 学习目标
 
 * 了解ansible playbook的应用场景及优势
