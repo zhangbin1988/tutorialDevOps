@@ -159,6 +159,8 @@
 
 ## 教程
 
+[ansible中文权威指南之playbook](http://ansible-tran.readthedocs.io/en/latest/docs/playbooks_intro.html)
+
 
 [PlaybookIn_tro](http://docs.ansible.com/ansible/latest/playbooks_intro.html)
 
