@@ -24,7 +24,10 @@
 
 
 
-## 自动化运维
+## [自动化运维](https://github.com/shower2013/tutorialDevOps/blob/master/automatedOperation/)
+
+### [ELK实时日志分析平台](https://github.com/shower2013/tutorialDevOps/blob/master/automatedOperation/ELKTutorial.md)
+
 
 
 
