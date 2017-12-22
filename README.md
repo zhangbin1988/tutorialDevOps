@@ -5,9 +5,9 @@
 
 ## 开发相关知识
 
-### markdown 教程
+### [markdown教程](https://github.com/shower2013/tutorialDevOps/blob/master/develop/markdownTutorial.md)
 
-### pycharm 教程
+### [pycharm教程](https://github.com/shower2013/tutorialDevOps/blob/master/develop/pycharmTutorial.md)
 
 
 ## 智能运维平台
