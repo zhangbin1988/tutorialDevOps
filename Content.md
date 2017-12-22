@@ -51,9 +51,10 @@
 
 ## 运维架构与常见服务
 
+### [不同行业的系统架构](https://github.com/shower2013/tutorialDevOps/tree/master/operationalArchitectureCommonService/industryArchitecture)
+
 ### [snmp 简单网络管理协议之学习路线](https://github.com/shower2013/tutorialDevOps/blob/master/operationalArchitectureCommonService/snmpTutorial.md)
      * [snmptrap 教程](https://github.com/shower2013/tutorialDevOps/blob/master/operationalArchitectureCommonService/snmpTrap.md)
-
 
 ### [ansible教程](https://github.com/shower2013/tutorialDevOps/blob/master/operationalArchitectureCommonService/ansibleTutorial.md)
 
