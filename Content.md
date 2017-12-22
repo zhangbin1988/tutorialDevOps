@@ -26,6 +26,8 @@
 
 ## [自动化运维](https://github.com/shower2013/tutorialDevOps/blob/master/automatedOperation/)
 
+### [生产案例](https://github.com/shower2013/tutorialDevOps/blob/master/automatedOperation/productCase.md)
+
 ### [ELK实时日志分析平台](https://github.com/shower2013/tutorialDevOps/blob/master/automatedOperation/ELKTutorial.md)
 
 
