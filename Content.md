@@ -1,13 +1,20 @@
 # tutorialDevOps 运维开发学习路线
+---
 
+[TOC]
 
 
 
 ## [开发相关知识](https://github.com/shower2013/tutorialDevOps/tree/master/develop)
 
+
+### [系统架构](https://github.com/shower2013/tutorialDevOps/blob/master/develop/systemArchitecture.md)
+
 ### [markdown教程](https://github.com/shower2013/tutorialDevOps/blob/master/develop/markdownTutorial.md)
 
 ### [pycharm教程](https://github.com/shower2013/tutorialDevOps/blob/master/develop/pycharmTutorial.md)
+
+
 
 
 ## 智能运维平台
@@ -17,6 +24,8 @@
 #### Zabbix 
   * snmp trap
   * snmp get 
+
+
 
 
 ## Docker最佳实践
