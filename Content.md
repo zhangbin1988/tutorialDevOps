@@ -23,11 +23,11 @@
 
 
 
-## 智能运维平台
+## [智能运维平台](https://github.com/shower2013/tutorialDevOps/tree/master/AIOpPlatform)
 
-### 全方位立体式多维智能监控平台 （企业级解决方案）
+### [全方位立体式多维智能监控平台 （企业级解决方案）](https://github.com/shower2013/tutorialDevOps/blob/master/AIOpPlatform/monitPlatform.md)
 
-#### Zabbix 
+#### [Zabbix监控解决方案](https://github.com/shower2013/tutorialDevOps/blob/master/AIOpPlatform/zabbix/zabbixMonitor.md) 
   * snmp trap
   * snmp get 
 
