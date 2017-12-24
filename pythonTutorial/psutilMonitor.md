@@ -19,6 +19,7 @@ psutil (process and system utilities) is a cross-platform library for retrieving
 ...both 32-bit and 64-bit architectures, with Python versions from 2.6 to 3.6. PyPy is also known to work.
 
 
+http://www.cnblogs.com/liu-yao/p/5678157.html
 
 
 ## psutil包使用详解
