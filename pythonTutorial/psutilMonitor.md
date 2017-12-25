@@ -34,16 +34,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
 ## [psutil 概述](https://github.com/giampaolo/psutil/)
 . psutil是一个跨平台库（http://code.google.com/p/psutil/），能够轻松实现获取系统运行的进程和系统利用率（包括CPU、内存、磁盘、网络等）信息。
 它主要应用于系统监控，分析和限制系统资源及进程的管理。它实现了同等命令行工具提供的功能，如ps、top、lsof、netstat、ifconfig、who、df、
@@ -68,6 +58,8 @@ http://www.cnblogs.com/liu-yao/p/5678157.html
 
 ## psutil包使用详解
 
+### [psutil教程--廖雪峰](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000/001511052957192bb91a56a2339485c8a8c79812b400d49000)
+
 
 
 
@@ -87,6 +79,29 @@ http://www.cnblogs.com/liu-yao/p/5678157.html
 
 
 
+<pre>
+[root@localhost pyhonDev]# psdash --help 
+usage: psdash [-h] [-l path] [-b host] [-p port] [-d] [-a]
+              [--register-to host:port] [--register-as name]
+
+psdash 0.6.2 - system information web dashboard
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -l path, --log path   log files to make available for psdash. Patterns (e.g.
+                        /var/log/**/*.log) are supported. This option can be
+                        used multiple times.
+  -b host, --bind host  host to bind to. Defaults to 0.0.0.0 (all interfaces).
+  -p port, --port port  port to listen on. Defaults to 5000.
+  -d, --debug           enables debug mode.
+  -a, --agent           Enables agent mode. This launches a RPC server, using
+                        zerorpc, on given bind host and port.
+  --register-to host:port
+                        The psdash node running in web mode to register this
+                        agent to on start up. e.g 10.0.1.22:5000
+  --register-as name    The name to register as. (This will default to the
+                        node's hostname)
+</pre>
 
 
 
