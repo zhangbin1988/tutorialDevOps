@@ -149,7 +149,7 @@ optional arguments:
 </pre>
 
 
-
+     psdash --log /var/log/psdash.log --log /var/log/mydb.log
 
 
 
@@ -180,6 +180,10 @@ https://reachtim.com/articles/psutil-and-mongodb-for-system-monitoring.html
 http://docs.celeryproject.org/en/3.0/userguide/monitoring.html
 
 https://github.com/hakanzy/django-system-monitor
+
+
+psutil--跨平台的进程管理
+https://www.jianshu.com/p/64e265f663f6
 
 
 
