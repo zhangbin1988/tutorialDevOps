@@ -33,20 +33,12 @@
 
 **周二2017.12.26**
 
-* [x] 写一个pip教程
-  *  [ ] 第一版
-  * [ ]  初级教程
-
-* [ ] 整理Zabbix的官网教程到xmind
-  * [ ] snmp 方式
-  * [ ]  trap 相关章节
-
 **周一2017.12.25**
 
-* [ ] 写一个psutil教程
+* [x] 写一个psutil教程
   * [x] 搭建psdash glances
-  * [ ]  初级教程 source code + markdown
-
+  * [x]  初级教程 source code + markdown
+  * [ ]  邮件发送 
 
 
 
