@@ -7,6 +7,7 @@
 
 ## 教程
 
+[3个月掌握Python机器学习](https://new.stuq.org/course/30)
 
 ## 引用
 
