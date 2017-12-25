@@ -122,6 +122,12 @@ psdash -a --register-to http://192.168.40.160:5000 --register-as $1 &
 * **监控效果**
 
 
+[查看 Linux 系统信息的 web 面板 psdash](https://www.vpsee.com/2014/04/psdash-a-system-information-web-dashboard-for-linux/)
+
+
+
+
+
 
 ### 
 <pre>
