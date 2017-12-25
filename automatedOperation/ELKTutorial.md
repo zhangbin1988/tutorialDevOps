@@ -18,8 +18,6 @@
 
 [生产环境Elk Stack部署文档](http://blog.51cto.com/zhang789/2043556)
 
-
-
 1. Filebeat：轻量级的日志收集工具
 
 2. 阿里云Redis：自己搭建的redis可扩张的方式没有阿里云方便
@@ -31,23 +29,15 @@
 5. Kibana/nginx：kibana性能要求不高，但是Kibana访问没有限制，为了安全监听在127.0.0.1，然后实用Nginx代理
 
 
+[elk安装](http://blog.csdn.net/xiecj_2006/article/details/77853435)
 
+[elk监控tomcat日志](http://blog.csdn.net/xiecj_2006/article/details/77854419)
 
-
-
-[]()
-
-
-[]()
-[]()
-
-
+[filebeat收集日志](http://blog.csdn.net/xiecj_2006/article/details/77863382)
 
 
 
 ## 引用
-
-http://blog.51cto.com/zhang789/2043556
 
 
 []()
