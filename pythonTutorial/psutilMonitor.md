@@ -77,22 +77,15 @@ http://www.cnblogs.com/liu-yao/p/5678157.html
 ## 开源项目
 
 
-
-
-
 * [glances](https://nicolargo.github.io/glances/) <br>
-
-   * [源码](https://github.com/nicolargo/glances)
-   * [用户手册&帮助文档](http://glances.readthedocs.io/en/latest/index.html)
-   * [pip--安装包](https://pypi.python.org/pypi/Glances)
+  * [源码](https://github.com/nicolargo/glances)
+  * [用户手册&帮助文档](http://glances.readthedocs.io/en/latest/index.html)
+  * [pip--安装包](https://pypi.python.org/pypi/Glances)
 
 
 * [psdash](https://psutil.readthedocs.io/en/latest/) <br>
-
-   * [源码](https://github.com/Jahaja/psdash)
-   * []()
-   * [pip--安装包](https://pypi.python.org/pypi/psdash/0.6.2)
-   * []()
+   * [源码](https://github.com/Jahaja/psdash)
+   * [pip--安装包](https://pypi.python.org/pypi/psdash/0.6.2)
 
 
 
