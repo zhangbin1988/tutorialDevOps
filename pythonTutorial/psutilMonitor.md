@@ -77,7 +77,7 @@ http://www.cnblogs.com/liu-yao/p/5678157.html
 ## 开源项目
 
 
-Glances is a cross-platform monitoring tool which aims to present a maximum of information in a minimum of space through a curses or Web based interface. It can adapt dynamically the displayed information depending on the user interface size.
+
 
 
 * [glances](https://nicolargo.github.io/glances/) <br>
@@ -86,7 +86,6 @@ Glances is a cross-platform monitoring tool which aims to present a maximum of i
    * [用户手册&帮助文档](http://glances.readthedocs.io/en/latest/index.html)
    * [pip--安装包](https://pypi.python.org/pypi/Glances)
 
-psdash is a system information web dashboard for linux using data mainly served by psutil - hence the name.
 
 * [psdash](https://psutil.readthedocs.io/en/latest/) <br>
 
@@ -96,6 +95,12 @@ psdash is a system information web dashboard for linux using data mainly served 
    * []()
 
 
+
+
+Glances is a cross-platform monitoring tool which aims to present a maximum of information in a minimum of space through a curses or Web based interface. It can adapt dynamically the displayed information depending on the user interface size.
+
+
+psdash is a system information web dashboard for linux using data mainly served by psutil - hence the name.
 
 
 
