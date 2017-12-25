@@ -22,8 +22,9 @@
 
 
 
+## [机器学习](https://github.com/shower2013/tutorialDevOps/tree/master/machineLearn) <br>
 
-## [智能运维平台](https://github.com/shower2013/tutorialDevOps/tree/master/AIOpPlatform)
+## [智能运维平台](https://github.com/shower2013/tutorialDevOps/tree/master/AIOpPlatform) <br>
 
 ### [全方位立体式多维智能监控平台 （企业级解决方案）](https://github.com/shower2013/tutorialDevOps/blob/master/AIOpPlatform/monitPlatform.md)
 
