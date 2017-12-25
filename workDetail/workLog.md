@@ -44,14 +44,8 @@
 **周一2017.12.25**
 
 * [ ] 写一个psutil教程
-
-  * [x] 搭建psdash glances
-  * [ ] 初级教程 source code + markdown
-
-
-* [ ] 整理Zabbix的官网教程到xmind
-  * [ ] snmp 方式
-  * [ ]  trap 相关章节
+  * [x] 搭建psdash glances
+  * [ ]  初级教程 source code + markdown
 
 
 #### 12.11--12.15
