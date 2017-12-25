@@ -44,17 +44,7 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-## psutil 概述
+## [psutil 概述](https://github.com/giampaolo/psutil/)
 . psutil是一个跨平台库（http://code.google.com/p/psutil/），能够轻松实现获取系统运行的进程和系统利用率（包括CPU、内存、磁盘、网络等）信息。
 它主要应用于系统监控，分析和限制系统资源及进程的管理。它实现了同等命令行工具提供的功能，如ps、top、lsof、netstat、ifconfig、who、df、
 kill、free、nice、ionice、iostat、iotop、uptime、pidof、tty、taskset、pmap等。
@@ -84,10 +74,37 @@ http://www.cnblogs.com/liu-yao/p/5678157.html
 
 
 
-## 生产案例
+## 开源项目
+
+
+Glances is a cross-platform monitoring tool which aims to present a maximum of information in a minimum of space through a curses or Web based interface. It can adapt dynamically the displayed information depending on the user interface size.
+
+* [glances](https://nicolargo.github.io/glances/)
+  *  [源码](https://github.com/nicolargo/glances)
+  * [用户手册&帮助文档](http://glances.readthedocs.io/en/latest/index.html)
+  * [pip--安装包](https://pypi.python.org/pypi/Glances)
+
+psdash is a system information web dashboard for linux using data mainly served by psutil - hence the name.
+
+* [psdash](https://psutil.readthedocs.io/en/latest/)
+  *  [源码](https://github.com/Jahaja/psdash)
+  *  []()
+  *  [pip--安装包](https://pypi.python.org/pypi/psdash/0.6.2)
+  *  []()
+
+
+
 
 
 ## 引用 
+
+
+
+https://github.com/giampaolo/psutil/
+
+https://nicolargo.github.io/glances/
+
+https://github.com/nicolargo/glances
 
 https://pypi.python.org/pypi/psutil
 
@@ -100,6 +117,10 @@ https://github.com/showersh/psdash/blob/master/README.md
 http://tiarno.github.io/psmonitor/
 
 https://reachtim.com/articles/psutil-and-mongodb-for-system-monitoring.html
+
+http://docs.celeryproject.org/en/3.0/userguide/monitoring.html
+
+https://github.com/hakanzy/django-system-monitor
 
 
 
