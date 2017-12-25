@@ -62,8 +62,6 @@ http://www.cnblogs.com/liu-yao/p/5678157.html
 
 
 
-
-
 ## 开源项目
 
 **Glances is a cross-platform monitoring tool which aims to present a maximum of information in a minimum of space through a curses or Web based interface. It can adapt dynamically the displayed information depending on the user interface size.**
@@ -85,6 +83,44 @@ http://www.cnblogs.com/liu-yao/p/5678157.html
    2.环境要求：
     主机：centos 6.5系统、python2.6。过程需要关闭防火墙。或者开放5000端口（psdash默认运行在5000端口）
 
+* **安装主控端**
+<pre>
+yum -y groupinstall "Development Tools"
+yum -y install python-devel
+wget -O /etc/yum.repos.d/CentOS-Base.repo http://mirrors.aliyun.com/repo/Centos-6.repo
+wget https://pypi.python.org/packages/source/s/setuptools/setuptools-18.3.2.tar.gz#md5=d30c969065bd384266e411c446a86623 --no-check-certificate
+tar -zxvf setuptools-18.3.2.tar.gz
+cd setuptools-18.3.2
+python setup.py install
+cd ..
+wget "https://pypi.python.org/packages/source/p/pip/pip-1.5.4.tar.gz#md5=834b2904f92d46aaa333267fb1c922bb" --no-check-certificate
+tar -zxvf pip-1.5.4.tar.gz
+cd pip-1.5.4
+python setup.py install
+pip install psdash
+psdash &
+</pre>
+  
+* **安装被控端**
+<pre>
+yum -y groupinstall "Development Tools"
+yum -y install python-devel
+wget -O /etc/yum.repos.d/CentOS-Base.repo http://mirrors.aliyun.com/repo/Centos-6.repo
+wget https://pypi.python.org/packages/source/s/setuptools/setuptools-18.3.2.tar.gz#md5=d30c969065bd384266e411c446a86623 --no-check-certificate
+tar -zxvf setuptools-18.3.2.tar.gz
+cd setuptools-18.3.2
+python setup.py install
+cd ..
+wget "https://pypi.python.org/packages/source/p/pip/pip-1.5.4.tar.gz#md5=834b2904f92d46aaa333267fb1c922bb" --no-check-certificate
+tar -zxvf pip-1.5.4.tar.gz
+cd pip-1.5.4
+python setup.py install
+pip install psdash
+psdash -a --register-to http://192.168.40.160:5000 --register-as $1 &
+</pre>
+
+
+* **监控效果**
 
 
 
