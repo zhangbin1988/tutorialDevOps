@@ -8,6 +8,14 @@
 ---
 ## Q1 2018.01.01-2018.03.31
 
+* [ ] **Ansible Web UI 的开发**
+* [ ] **Python 3.6 的学习**
+* [ ] **Django 的学习**
+* [ ] **bootstrap的学习**
+* [ ] **html css javascript学习**
+* [ ] **Ansible playbook 的学习**
+
+
 ### 2018.01  
 
 #### **01.02--01.05**
