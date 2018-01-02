@@ -11,7 +11,19 @@
    KISS——Keep It Simple，Stupid!
    
    
+## 云计算相关
+   
+* **OpenStack高可用集群（上册）原理与架构**
+
+
+
+
+
    
+## 自动化运维相关
+   
+* **Ansible权威指南**
+
 
 
  
