@@ -38,8 +38,8 @@
 
 * [ ] 部署psdash
 * [ ] train python 
-* [ ] deploy ansile docker zabbix mysql 
-
+* [ ] deploy ansile docker zabbix mysql  gageone
+* [ ] 更新ansible权威指南脑图
 
 **周二2018.01.02**
 
