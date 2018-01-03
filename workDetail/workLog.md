@@ -36,6 +36,11 @@
 
 **周三2018.01.03**
 
+* [ ] 部署psdash
+* [ ] train python 
+* [ ] deploy ansile docker zabbix mysql 
+
+
 **周二2018.01.02**
 
 * [x] 本周工作计划
