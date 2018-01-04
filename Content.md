@@ -9,117 +9,72 @@
 
 
 
-## [智能运维平台](https://github.com/shower2013/tutorialDevOps/tree/master/AIOpPlatform) <br>
+## 1 [智能运维平台](https://github.com/shower2013/tutorialDevOps/tree/master/AIOpPlatform) <br>
 
-### [全方位立体式多维智能监控平台 （企业级解决方案）](https://github.com/shower2013/tutorialDevOps/blob/master/AIOpPlatform/monitPlatform.md)
+### 1.1 [全方位立体式多维智能监控平台 （企业级解决方案）](https://github.com/shower2013/tutorialDevOps/blob/master/AIOpPlatform/monitPlatform.md)
 
-#### [Zabbix监控解决方案](https://github.com/shower2013/tutorialDevOps/blob/master/AIOpPlatform/zabbix/zabbixMonitor.md) 
+####  1.1.1 [Zabbix监控解决方案](https://github.com/shower2013/tutorialDevOps/blob/master/AIOpPlatform/zabbix/zabbixMonitor.md) 
   * snmp trap
   * snmp get 
 
 
+## 2 [自动化运维](https://github.com/shower2013/tutorialDevOps/blob/master/automatedOperation/)
 
+### 2.1 [生产案例](https://github.com/shower2013/tutorialDevOps/blob/master/automatedOperation/productCase.md)
 
-## Docker最佳实践
+### 2.2 [ELK实时日志分析平台](https://github.com/shower2013/tutorialDevOps/blob/master/automatedOperation/ELKTutorial.md)
 
+## 3 [运维架构与常见服务](https://github.com/shower2013/tutorialDevOps/tree/master/operationalArchitectureCommonService)
 
+### 3.1 [不同行业的系统架构](https://github.com/shower2013/tutorialDevOps/tree/master/operationalArchitectureCommonService/industryArchitecture)
 
-
-## [自动化运维](https://github.com/shower2013/tutorialDevOps/blob/master/automatedOperation/)
-
-### [生产案例](https://github.com/shower2013/tutorialDevOps/blob/master/automatedOperation/productCase.md)
-
-### [ELK实时日志分析平台](https://github.com/shower2013/tutorialDevOps/blob/master/automatedOperation/ELKTutorial.md)
-
-
-
-
-
-## CI与CD 持续集成、持续部署、持续交付
-
-
-
-
-
-## [运维架构与常见服务](https://github.com/shower2013/tutorialDevOps/tree/master/operationalArchitectureCommonService)
-
-### [不同行业的系统架构](https://github.com/shower2013/tutorialDevOps/tree/master/operationalArchitectureCommonService/industryArchitecture)
-
-### [snmp 简单网络管理协议之学习路线](https://github.com/shower2013/tutorialDevOps/blob/master/operationalArchitectureCommonService/snmpTutorial.md)
+### 3.2  [snmp 简单网络管理协议之学习路线](https://github.com/shower2013/tutorialDevOps/blob/master/operationalArchitectureCommonService/snmpTutorial.md)
      * [snmptrap 教程](https://github.com/shower2013/tutorialDevOps/blob/master/operationalArchitectureCommonService/snmpTrap.md)
 
-### [ansible教程](https://github.com/shower2013/tutorialDevOps/blob/master/operationalArchitectureCommonService/ansibleTutorial.md)
+### 3.3  [ansible教程](https://github.com/shower2013/tutorialDevOps/blob/master/operationalArchitectureCommonService/ansibleTutorial.md)
+
+## 4  CI与CD 持续集成、持续部署、持续交付
 
 
+## 5  Docker最佳实践
 
 
-## openstack私有云
+## 6 openstack私有云
 
 
-
-## [机器学习](https://github.com/shower2013/tutorialDevOps/tree/master/machineLearn) <br>
-
+##  7 [机器学习](https://github.com/shower2013/tutorialDevOps/tree/master/machineLearn) <br>
 
 
+## 8  大数据与AI
 
-## 大数据与AI
+## 9  自动化测试
 
-
-
-
-
-
-## 一站式自动化智能测试平台
+## 10 一站式自动化智能测试平台
 
 
+## 11 信息安全及防御体系
+
+## 12 网络原理及企业级解决方案架构
 
 
-## 信息安全及防御体系
+## 13 集群管理
 
 
+##  14 [开发相关知识](https://github.com/shower2013/tutorialDevOps/tree/master/develop)
 
 
-##  网络原理及企业级解决方案架构
+###  14.1 [系统架构](https://github.com/shower2013/tutorialDevOps/blob/master/develop/systemArchitecture.md)
 
-
-
-
-
-## 集群管理
-
-
-
-
-
-
-## [开发相关知识](https://github.com/shower2013/tutorialDevOps/tree/master/develop)
-
-
-### [系统架构](https://github.com/shower2013/tutorialDevOps/blob/master/develop/systemArchitecture.md)
-
-### [网络编程](https://github.com/shower2013/tutorialDevOps/tree/master/develop/network_program)
+###  14.2 [网络编程](https://github.com/shower2013/tutorialDevOps/tree/master/develop/network_program)
 
 ### []()
 
 ### []()
 
-### [markdown教程](https://github.com/shower2013/tutorialDevOps/blob/master/develop/markdownTutorial.md)
+###  14.3 [markdown教程](https://github.com/shower2013/tutorialDevOps/blob/master/develop/markdownTutorial.md)
 
-### [pycharm教程](https://github.com/shower2013/tutorialDevOps/blob/master/develop/pycharmTutorial.md)
-
-
-## 自动化测试
+### 14.4 [pycharm教程](https://github.com/shower2013/tutorialDevOps/blob/master/develop/pycharmTutorial.md)
 
 
-
-
-
-
-
-
-## [推荐书籍](https://github.com/shower2013/tutorialDevOps/tree/master/books)
-
-
-
-
+## 15 [推荐书籍](https://github.com/shower2013/tutorialDevOps/tree/master/books)
 
