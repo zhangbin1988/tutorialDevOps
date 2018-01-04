@@ -5,24 +5,9 @@
 
 
 
-## [开发相关知识](https://github.com/shower2013/tutorialDevOps/tree/master/develop)
-
-
-### [系统架构](https://github.com/shower2013/tutorialDevOps/blob/master/develop/systemArchitecture.md)
-
-### [网络编程](https://github.com/shower2013/tutorialDevOps/tree/master/develop/network_program)
-
-### []()
-
-### []()
-
-### [markdown教程](https://github.com/shower2013/tutorialDevOps/blob/master/develop/markdownTutorial.md)
-
-### [pycharm教程](https://github.com/shower2013/tutorialDevOps/blob/master/develop/pycharmTutorial.md)
 
 
 
-## [机器学习](https://github.com/shower2013/tutorialDevOps/tree/master/machineLearn) <br>
 
 ## [智能运维平台](https://github.com/shower2013/tutorialDevOps/tree/master/AIOpPlatform) <br>
 
@@ -72,8 +57,14 @@
 
 
 
+## [机器学习](https://github.com/shower2013/tutorialDevOps/tree/master/machineLearn) <br>
+
+
+
 
 ## 大数据与AI
+
+
 
 
 
@@ -99,7 +90,29 @@
 
 
 
+
+
+## [开发相关知识](https://github.com/shower2013/tutorialDevOps/tree/master/develop)
+
+
+### [系统架构](https://github.com/shower2013/tutorialDevOps/blob/master/develop/systemArchitecture.md)
+
+### [网络编程](https://github.com/shower2013/tutorialDevOps/tree/master/develop/network_program)
+
+### []()
+
+### []()
+
+### [markdown教程](https://github.com/shower2013/tutorialDevOps/blob/master/develop/markdownTutorial.md)
+
+### [pycharm教程](https://github.com/shower2013/tutorialDevOps/blob/master/develop/pycharmTutorial.md)
+
+
 ## 自动化测试
+
+
+
+
 
 
 
