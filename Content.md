@@ -33,6 +33,14 @@
 
 ### 3.3  [ansible教程](https://github.com/shower2013/tutorialDevOps/blob/master/operationalArchitectureCommonService/ansibleTutorial.md)
 
+
+### 3.4 [远程连接服务](https://github.com/shower2013/tutorialDevOps/tree/master/operationalArchitectureCommonService/remoteAccess)
+
+* [VNC](https://github.com/shower2013/tutorialDevOps/blob/master/operationalArchitectureCommonService/remoteAccess/VNC.md)
+* [gateOne](https://github.com/shower2013/tutorialDevOps/blob/master/operationalArchitectureCommonService/remoteAccess/gateone.md)
+
+
+
 ## 4  CI与CD 持续集成、持续部署、持续交付
 
 
