@@ -81,7 +81,7 @@
 
 ###  14.3 [markdown教程](https://github.com/shower2013/tutorialDevOps/blob/master/develop/markdownTutorial.md)
 
-### 14.4 [pycharm教程](https://github.com/shower2013/tutorialDevOps/blob/master/develop/pycharmTutorial.md)
+### 14.4 [python教程](https://github.com/shower2013/tutorialDevOps/tree/master/develop/Python)
 
 
 ## 15 [推荐书籍](https://github.com/shower2013/tutorialDevOps/tree/master/books)
