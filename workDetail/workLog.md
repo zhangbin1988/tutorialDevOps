@@ -18,6 +18,53 @@
 
 ### 2018.01  
 
+
+#### **01.08--01.12**
+---
+
+* 搭建测试环境 （4台）
+* Django 写一个简单的网站
+* Ansible Playbook 一键部署zabbix agent  的学习及技术分享
+* pip 的使用指导书
+
+**周五 2018.01.12**
+
+* [ ]  
+* [ ]  
+* [ ]  
+  
+**周四2018.01.11**
+
+**周三2018.01.10**
+
+* [x] train python 
+* [ ] 测试环境规划书 deploy ansile docker zabbix mysql  gageone
+* [x] 更新ansible权威指南脑图
+
+**周二2018.01.09**
+
+* [x] 本周工作计划
+* [x] 学习openstack高可用集群  更新思维导图
+* [x] ppt
+
+
+**周一2018.01.08**
+
+* [ ] 写一个 ansible 部署playbook
+  * [ ] 搭建ansible 
+  * [ ]  ansible 免密码登录
+  * [ ]  一键部署zabbix agent 的playbook
+
+
+
+
+
+
+
+
+
+
+
 #### **01.02--01.05**
 ---
 
