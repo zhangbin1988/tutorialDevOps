@@ -25,6 +25,16 @@ ansible -i hosts all   -m  command  -a "cat /root/.ssh/authorized_keys"
 
 
 
+ansible -i hosts all   -m  shell  -a "mkdir /etc/yum.repos.d/bak"
+
+ansible -i hosts all   -m  shell  -a "mv /etc/yum.repos.d/*.repo  /etc/yum.repos.d/bak/"
+
+
+
+
+
+
+
 
 #### 2018.01.04 
 
