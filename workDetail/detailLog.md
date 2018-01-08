@@ -10,12 +10,20 @@
 
 
 
-
-
-
-
-
 ### 2018.01 
+
+
+
+#### 2018.01.08
+
+生成秘钥
+
+ssh-keygen -t rsa -C "youremail@example.com"
+
+ansible 查看主机已授权的公钥
+ansible -i hosts all   -m  command  -a "cat /root/.ssh/authorized_keys"
+
+
 
 
 #### 2018.01.04 
