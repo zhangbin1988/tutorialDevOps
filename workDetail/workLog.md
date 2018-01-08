@@ -51,7 +51,8 @@
 **周一2018.01.08**
 
 * [ ] 写一个 ansible 部署playbook
-  * [x] 搭建ansible 
+
+  * [x] 搭建ansible 
   * [x]  ansible 免密码登录
   * [ ]  一键部署zabbix agent 的playbook
 
