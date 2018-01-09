@@ -12,6 +12,14 @@
 
 ## 教程
 
+
+[Zabbix从放弃到入门](http://www.zsythink.net/archives/category/运维相关/zabbix/page/2/)
+
+
+
+
+
+
 ### 部署 
 
 
