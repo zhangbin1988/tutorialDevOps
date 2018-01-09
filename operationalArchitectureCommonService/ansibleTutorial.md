@@ -210,3 +210,4 @@ https://serversforhackers.com/c/an-ansible-tutorial
 [自动化运维工具之ansible](https://linux.cn/blog-17704-5926.html)
 
 
+[Ansible架构及特点](http://blog.liulantao.com/ansible-bastion-host.html)
