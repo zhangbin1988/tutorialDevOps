@@ -36,7 +36,7 @@
 ### 3.2  [snmp 简单网络管理协议之学习路线](https://github.com/shower2013/tutorialDevOps/blob/master/operationalArchitectureCommonService/snmpTutorial.md)
      * [snmptrap 教程](https://github.com/shower2013/tutorialDevOps/blob/master/operationalArchitectureCommonService/snmpTrap.md)
 
-### 3.3  [ansible教程](https://github.com/shower2013/tutorialDevOps/blob/master/operationalArchitectureCommonService/ansibleTutorial.md)
+### 3.3  [ansible教程](https://github.com/shower2013/tutorialDevOps/tree/master/operationalArchitectureCommonService/AutomationOpTools/ansible)
 
 
 ### 3.4 [远程连接服务](https://github.com/shower2013/tutorialDevOps/tree/master/operationalArchitectureCommonService/remoteAccess)
