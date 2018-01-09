@@ -43,9 +43,9 @@
 
 **周二2018.01.09**
 
-* [x] 本周工作计划
-* [x] 学习openstack高可用集群  更新思维导图
-* [x] ppt
+* [ ] zabbix agent rpm 安装包的准备
+* [ ] ansible playbook 使用 rpm 安装包的方式安装zabbix  agent 
+* [ ] 生产环境测试
 
 
 **周一2018.01.08**
