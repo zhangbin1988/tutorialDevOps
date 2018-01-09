@@ -1,5 +1,8 @@
 
-# Zabbix 安装
+# [Zabbix 安装](https://www.zabbix.com/documentation/3.2/manual/installation)
+
+
+
 
 ## 引用
 
@@ -8,3 +11,25 @@
 
 [Zabbix安装](http://www.zsythink.net/archives/500)
 
+
+[详解zabbix安装部署（Server端篇](http://blog.chinaunix.net/uid-25266990-id-3380929.html)
+
+
+[zabbix监控系统客户端安装 ](http://blog.chinaunix.net/uid-25266990-id-3387002.html)
+
+
+
+
+[]()
+
+
+[]()
+
+[]()
+
+[]()
+
+https://www.zabbix.com/documentation/3.2/manual/installation
+
+
+[]()
