@@ -7,23 +7,6 @@
 [TOC]
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 模块  
 
 
@@ -52,27 +35,6 @@
 * Utilities Modules
 * Web Infrastructure Modules
 * Windows Modules
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## 学习目标
 
@@ -243,4 +205,8 @@ https://galaxy.ansible.com/explore#/
 http://www.cnblogs.com/chenxianpao/p/7360349.html
 
 https://serversforhackers.com/c/an-ansible-tutorial
+
+
+[自动化运维工具之ansible](https://linux.cn/blog-17704-5926.html)
+
 
