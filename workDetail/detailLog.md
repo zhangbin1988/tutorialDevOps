@@ -20,6 +20,14 @@ yum 安装 依赖不能解决 ， 报错
 选择使用zabbix agent rpm 包方式安装 zabbix  agent 
 
 
+查询rpm包的依赖关系
+Posted on May 23, 2011 by alexu2595
+# 查询未安装软件包的依赖关系
+rpm -qRp vim-common-6.3.046-2.el4.1.x86_64.rpm
+
+# 查询已安装软件包的依赖关系
+rpm -qR vim-common-6.3.046-2.el4.1
+
 
 
 
