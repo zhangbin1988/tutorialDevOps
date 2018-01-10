@@ -35,18 +35,18 @@
   
 **周四2018.01.11**
 
+
 **周三2018.01.10**
 
-* [x] train python 
-* [ ] 测试环境规划书 deploy ansile docker zabbix mysql  gageone
-* [x] 更新ansible权威指南脑图
+* [ ] Ansible 权威之前 xmind 更新
+* [ ] ansible playbook的学习
+* [ ] docker 环境的准备
 
 **周二2018.01.09**
 
-* [ ] zabbix agent rpm 安装包的准备
-* [ ] ansible playbook 使用 rpm 安装包的方式安装zabbix  agent 
-* [ ] 生产环境测试
-
+* [x] zabbix agent rpm 安装包的准备
+* [x] ansible playbook 使用 rpm 安装包的方式安装zabbix  agent 
+* [x] 生产环境测试
 
 **周一2018.01.08**
 
