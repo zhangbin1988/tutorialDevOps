@@ -24,6 +24,9 @@
 ### 2.2 [ELK实时日志分析平台](https://github.com/shower2013/tutorialDevOps/blob/master/automatedOperation/ELKTutorial.md)
 
 
+
+
+
 ## 3 [运维架构与常见服务](https://github.com/shower2013/tutorialDevOps/tree/master/operationalArchitectureCommonService)
 
 ### 3.1 [不同行业的系统架构](https://github.com/shower2013/tutorialDevOps/tree/master/operationalArchitectureCommonService/industryArchitecture)
@@ -61,6 +64,21 @@
 * [snmp 简单网络管理协议之学习路线](https://github.com/shower2013/tutorialDevOps/blob/master/operationalArchitectureCommonService/snmpTutorial.md)
 
  [snmptrap 教程](https://github.com/shower2013/tutorialDevOps/blob/master/operationalArchitectureCommonService/snmpTrap.md)
+
+
+
+### 3.5 [监控](https://github.com/shower2013/tutorialDevOps/tree/master/operationalArchitectureCommonService/monit/)
+
+#### 3.5.1 [系统监控](https://github.com/shower2013/tutorialDevOps/tree/master/operationalArchitectureCommonService/monit/system)
+
+* [sysdig](https://github.com/shower2013/tutorialDevOps/blob/master/operationalArchitectureCommonService/monit/system/sysdigTutorial.md)
+
+
+
+
+
+
+
 
 
 ## 4  [CI与CD 持续集成、持续部署、持续交付]()
