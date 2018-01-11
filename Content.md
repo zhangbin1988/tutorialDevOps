@@ -37,12 +37,17 @@
 
 ### 3.1 [不同行业的系统架构](https://github.com/shower2013/tutorialDevOps/tree/master/operationalArchitectureCommonService/industryArchitecture)
 
-### 3.2  [snmp 简单网络管理协议之学习路线](https://github.com/shower2013/tutorialDevOps/blob/master/operationalArchitectureCommonService/snmpTutorial.md)
-     * [snmptrap 教程](https://github.com/shower2013/tutorialDevOps/blob/master/operationalArchitectureCommonService/snmpTrap.md)
+### 3.2  [DB]() 
+
+* [mysql]()
+* [redis]()
+* [mongodb]()
+* [rabbitmq]()
 
 
 
-### 3.3 自动化工具
+
+### 3.3 [自动化工具](https://github.com/shower2013/tutorialDevOps/tree/master/operationalArchitectureCommonService/AutomationOpTools)
 
 * [ansible教程](https://github.com/shower2013/tutorialDevOps/tree/master/operationalArchitectureCommonService/AutomationOpTools/ansible)
 
@@ -53,36 +58,67 @@
 ### 3.4 [远程连接服务](https://github.com/shower2013/tutorialDevOps/tree/master/operationalArchitectureCommonService/remoteAccess)
 
 * [VNC](https://github.com/shower2013/tutorialDevOps/blob/master/operationalArchitectureCommonService/remoteAccess/VNC.md)
+
 * [gateOne](https://github.com/shower2013/tutorialDevOps/blob/master/operationalArchitectureCommonService/remoteAccess/gateone.md)
+
+* [snmp 简单网络管理协议之学习路线](https://github.com/shower2013/tutorialDevOps/blob/master/operationalArchitectureCommonService/snmpTutorial.md)
+     * [snmptrap 教程](https://github.com/shower2013/tutorialDevOps/blob/master/operationalArchitectureCommonService/snmpTrap.md)
 
 
 
 
 ## 4  CI与CD 持续集成、持续部署、持续交付
 
+### [Jenkins]()
 
 ## 5  Docker最佳实践
 
 
 ## 6 openstack私有云
 
+### [openstack]()
 
 ##  7 [机器学习](https://github.com/shower2013/tutorialDevOps/tree/master/machineLearn) <br>
 
 
 ## 8  大数据与AI
 
+### [hadoop]()
+
+### [Spark]()
+
+
 ## 9  自动化测试
 
-## 10 一站式自动化智能测试平台
+### [Jmeter]()
+
+### [Selenium]()
 
 
-## 11 信息安全及防御体系
 
-## 12 网络原理及企业级解决方案架构
+### [一站式自动化智能测试平台]()
+
 
 
 ## 13 集群管理
+
+
+### 负载均衡
+
+* LVS
+* KeepAlive 
+* Nginx 
+* HAProxy
+
+### 10  信息安全及防御体系
+
+* [iptables]()
+
+* [selinux]()
+
+### 12 网络原理及企业级解决方案架构
+
+
 
 
 ##  14 [开发相关知识](https://github.com/shower2013/tutorialDevOps/tree/master/develop)
