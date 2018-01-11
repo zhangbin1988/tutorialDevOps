@@ -48,6 +48,8 @@
 * [kickstart]()
 
 
+* [yum]()
+
 * [racktables](https://github.com/shower2013/tutorialDevOps/tree/master/operationalArchitectureCommonService/AutomationOpTools/racktables)
 
 ### 3.4 [远程连接服务](https://github.com/shower2013/tutorialDevOps/tree/master/operationalArchitectureCommonService/remoteAccess)
@@ -120,6 +122,12 @@
 ###  11.3 [markdown教程](https://github.com/shower2013/tutorialDevOps/blob/master/develop/markdownTutorial.md)
 
 ### 11.4 [python教程](https://github.com/shower2013/tutorialDevOps/tree/master/develop/Python)
+
+* [Django]()
+
+* [Python3]()
+
+* [Python面向对象]()
 
 
 ### []()
