@@ -40,6 +40,10 @@ Ansible playbook to deploy a complete up and running Foreman instance within min
 * setup foreman-proxy
 * setup Foreman including configuration (templates, hosts, domains, etc.)
 
+#### [foreman-yml](https://github.com/adfinis-sygroup/foreman-yml)
+
+
+
 
 ## 生产案例
 
@@ -51,6 +55,9 @@ Ansible playbook to deploy a complete up and running Foreman instance within min
 
 [foreman Github源码](https://github.com/theforeman/foreman)
 
+[foreman_ansible_inventory](https://github.com/theforeman/foreman_ansible_inventory)
+
+[foreman_ansible](https://github.com/theforeman/foreman_ansible)
 
 
 ## 引用
