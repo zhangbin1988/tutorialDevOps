@@ -11,6 +11,8 @@ package updates, power management, configuration management orchestration, and m
 ## 部署
 
 
+
+
 ## 生产案例
 
 
@@ -26,4 +28,4 @@ package updates, power management, configuration management orchestration, and m
 
 [cobbler自动化运维](http://blog.csdn.net/cuigelasi/article/details/76849712)
 
-[]()
+[使用 Cobbler 自动化和管理系统安装](https://www.ibm.com/developerworks/cn/linux/l-cobbler/index.html)
