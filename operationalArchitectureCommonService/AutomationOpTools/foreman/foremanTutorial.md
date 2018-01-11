@@ -29,6 +29,17 @@ and so much more
 ### [源码安装foreman](https://theforeman.org/manuals/1.16/index.html#3.4InstallFromSource)
 
 
+### [ansible部署foreman](https://github.com/adfinis-sygroup/foreman-ansible)
+
+Ansible playbook to deploy a complete up and running Foreman instance within minutes.
+
+* setup database (SQLite or MySQL)
+* setup webserver (plain nginx as a proxy or nginx-passenger)
+* setup isc-dhcp-server
+* setup TFTP server
+* setup foreman-proxy
+* setup Foreman including configuration (templates, hosts, domains, etc.)
+
 
 ## 生产案例
 
