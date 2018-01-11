@@ -30,3 +30,5 @@ https://github.com/draios/sysdig
 
 [用 Sysdig 监控服务器和 Docker 容器](https://www.ibm.com/developerworks/cn/linux/1607_caoyq_sysdig/index.html)
 
+[Sysdig – A Powerful System Monitoring and Troubleshooting Tool for Linux](https://www.tecmint.com/sysdig-system-monitoring-and-troubleshooting-tool-for-linux/)
+
