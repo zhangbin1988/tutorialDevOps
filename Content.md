@@ -29,6 +29,10 @@
 
 ### 2.2 [ELK实时日志分析平台](https://github.com/shower2013/tutorialDevOps/blob/master/automatedOperation/ELKTutorial.md)
 
+
+
+
+
 ## 3 [运维架构与常见服务](https://github.com/shower2013/tutorialDevOps/tree/master/operationalArchitectureCommonService)
 
 ### 3.1 [不同行业的系统架构](https://github.com/shower2013/tutorialDevOps/tree/master/operationalArchitectureCommonService/industryArchitecture)
@@ -36,13 +40,21 @@
 ### 3.2  [snmp 简单网络管理协议之学习路线](https://github.com/shower2013/tutorialDevOps/blob/master/operationalArchitectureCommonService/snmpTutorial.md)
      * [snmptrap 教程](https://github.com/shower2013/tutorialDevOps/blob/master/operationalArchitectureCommonService/snmpTrap.md)
 
-### 3.3  [ansible教程](https://github.com/shower2013/tutorialDevOps/tree/master/operationalArchitectureCommonService/AutomationOpTools/ansible)
 
+
+### 3.3 自动化工具
+
+* [ansible教程](https://github.com/shower2013/tutorialDevOps/tree/master/operationalArchitectureCommonService/AutomationOpTools/ansible)
+
+* [foreman](https://github.com/shower2013/tutorialDevOps/tree/master/operationalArchitectureCommonService/AutomationOpTools/foreman)
+
+* [racktables](https://github.com/shower2013/tutorialDevOps/tree/master/operationalArchitectureCommonService/AutomationOpTools/racktables)
 
 ### 3.4 [远程连接服务](https://github.com/shower2013/tutorialDevOps/tree/master/operationalArchitectureCommonService/remoteAccess)
 
 * [VNC](https://github.com/shower2013/tutorialDevOps/blob/master/operationalArchitectureCommonService/remoteAccess/VNC.md)
 * [gateOne](https://github.com/shower2013/tutorialDevOps/blob/master/operationalArchitectureCommonService/remoteAccess/gateone.md)
+
 
 
 
