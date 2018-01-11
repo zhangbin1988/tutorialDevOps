@@ -51,7 +51,8 @@
 * [gateOne](https://github.com/shower2013/tutorialDevOps/blob/master/operationalArchitectureCommonService/remoteAccess/gateone.md)
 
 * [snmp 简单网络管理协议之学习路线](https://github.com/shower2013/tutorialDevOps/blob/master/operationalArchitectureCommonService/snmpTutorial.md)
-     * [snmptrap 教程](https://github.com/shower2013/tutorialDevOps/blob/master/operationalArchitectureCommonService/snmpTrap.md)
+
+ [snmptrap 教程](https://github.com/shower2013/tutorialDevOps/blob/master/operationalArchitectureCommonService/snmpTrap.md)
 
 
 ## 4  [CI与CD 持续集成、持续部署、持续交付]()
