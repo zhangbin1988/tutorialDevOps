@@ -9,18 +9,12 @@
 ### 1.1 [全方位立体式多维智能监控平台 （企业级解决方案）](https://github.com/shower2013/tutorialDevOps/blob/master/AIOpPlatform/monitPlatform.md)
 
 ####  1.1.1 [Zabbix监控解决方案](https://github.com/shower2013/tutorialDevOps/blob/master/AIOpPlatform/zabbix/zabbixMonitor.md) 
-  * snmp trap
-  * snmp get 
-
+ 
 ### 竞品分析
 
 #### [Prometheus](https://prometheus.io/)
 
-
 #### [Grafana](https://grafana.com/)
-
-
-
 
 
 ## 2 [自动化运维](https://github.com/shower2013/tutorialDevOps/blob/master/automatedOperation/)
@@ -28,9 +22,6 @@
 ### 2.1 [生产案例](https://github.com/shower2013/tutorialDevOps/blob/master/automatedOperation/productCase.md)
 
 ### 2.2 [ELK实时日志分析平台](https://github.com/shower2013/tutorialDevOps/blob/master/automatedOperation/ELKTutorial.md)
-
-
-
 
 
 ## 3 [运维架构与常见服务](https://github.com/shower2013/tutorialDevOps/tree/master/operationalArchitectureCommonService)
@@ -43,8 +34,6 @@
 * [redis]()
 * [mongodb]()
 * [rabbitmq]()
-
-
 
 
 ### 3.3 [自动化工具](https://github.com/shower2013/tutorialDevOps/tree/master/operationalArchitectureCommonService/AutomationOpTools)
@@ -63,8 +52,6 @@
 
 * [snmp 简单网络管理协议之学习路线](https://github.com/shower2013/tutorialDevOps/blob/master/operationalArchitectureCommonService/snmpTutorial.md)
      * [snmptrap 教程](https://github.com/shower2013/tutorialDevOps/blob/master/operationalArchitectureCommonService/snmpTrap.md)
-
-
 
 
 ## 4  CI与CD 持续集成、持续部署、持续交付
@@ -99,42 +86,40 @@
 ### [一站式自动化智能测试平台]()
 
 
-
-## 13 集群管理
+## 10 集群管理
 
 
 ### 负载均衡
 
-* LVS
-* KeepAlive 
-* Nginx 
-* HAProxy
+* [LVS]()
+* [KeepAlive]() 
+* [Nginx]() 
+* [HAProxy]()
 
-### 10  信息安全及防御体系
+###   信息安全及防御体系
 
 * [iptables]()
 
 * [selinux]()
 
-### 12 网络原理及企业级解决方案架构
+###  网络原理及企业级解决方案架构
 
 
+##  11 [开发相关知识](https://github.com/shower2013/tutorialDevOps/tree/master/develop)
 
 
-##  14 [开发相关知识](https://github.com/shower2013/tutorialDevOps/tree/master/develop)
+###  11.1 [系统架构](https://github.com/shower2013/tutorialDevOps/blob/master/develop/systemArchitecture.md)
 
+###  11.2 [网络编程](https://github.com/shower2013/tutorialDevOps/tree/master/develop/network_program)
 
-###  14.1 [系统架构](https://github.com/shower2013/tutorialDevOps/blob/master/develop/systemArchitecture.md)
+###  11.3 [markdown教程](https://github.com/shower2013/tutorialDevOps/blob/master/develop/markdownTutorial.md)
 
-###  14.2 [网络编程](https://github.com/shower2013/tutorialDevOps/tree/master/develop/network_program)
+### 11.4 [python教程](https://github.com/shower2013/tutorialDevOps/tree/master/develop/Python)
+
 
 ### []()
 
 ### []()
-
-###  14.3 [markdown教程](https://github.com/shower2013/tutorialDevOps/blob/master/develop/markdownTutorial.md)
-
-### 14.4 [python教程](https://github.com/shower2013/tutorialDevOps/tree/master/develop/Python)
 
 
 ## 15 [推荐书籍](https://github.com/shower2013/tutorialDevOps/tree/master/books)
