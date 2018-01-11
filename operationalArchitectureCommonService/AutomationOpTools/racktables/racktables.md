@@ -24,7 +24,7 @@ It helps document hardware assets, network addresses, space in racks, networks c
 ## 引用
 
 [github源码](https://github.com/RackTables/racktables)
-[]()
+[wiki](https://wiki.racktables.org/index.php/Main_Page)
 
 []()
 []()
