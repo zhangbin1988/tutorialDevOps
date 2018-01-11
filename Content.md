@@ -42,6 +42,12 @@
 
 * [foreman](https://github.com/shower2013/tutorialDevOps/tree/master/operationalArchitectureCommonService/AutomationOpTools/foreman)
 
+
+* [cobbler]()
+
+* [kickstart]()
+
+
 * [racktables](https://github.com/shower2013/tutorialDevOps/tree/master/operationalArchitectureCommonService/AutomationOpTools/racktables)
 
 ### 3.4 [远程连接服务](https://github.com/shower2013/tutorialDevOps/tree/master/operationalArchitectureCommonService/remoteAccess)
