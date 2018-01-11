@@ -1,4 +1,4 @@
-# tutorialDevOps 运维开发学习路线
+# [tutorialDevOps 运维开发学习路线]()
 ---
 
 [TOC]
@@ -10,7 +10,7 @@
 
 ####  1.1.1 [Zabbix监控解决方案](https://github.com/shower2013/tutorialDevOps/blob/master/AIOpPlatform/zabbix/zabbixMonitor.md) 
  
-### 竞品分析
+### [竞品分析]()
 
 #### [Prometheus](https://prometheus.io/)
 
@@ -54,55 +54,53 @@
      * [snmptrap 教程](https://github.com/shower2013/tutorialDevOps/blob/master/operationalArchitectureCommonService/snmpTrap.md)
 
 
-## 4  CI与CD 持续集成、持续部署、持续交付
+## 4  [CI与CD 持续集成、持续部署、持续交付]()
 
 ### [Jenkins]()
 
-## 5  Docker最佳实践
+## 5  [Docker最佳实践]()
 
 
-## 6 openstack私有云
+## 6 [openstack私有云]()
 
 ### [openstack]()
 
 ##  7 [机器学习](https://github.com/shower2013/tutorialDevOps/tree/master/machineLearn) <br>
 
 
-## 8  大数据与AI
+## 8  [大数据与AI]()
 
 ### [hadoop]()
 
 ### [Spark]()
 
 
-## 9  自动化测试
+## 9  [自动化测试]()
 
 ### [Jmeter]()
 
 ### [Selenium]()
 
-
-
 ### [一站式自动化智能测试平台]()
 
 
-## 10 集群管理
+## 10 [集群管理]()
 
 
-### 负载均衡
+### [负载均衡]()
 
 * [LVS]()
 * [KeepAlive]() 
 * [Nginx]() 
 * [HAProxy]()
 
-###   信息安全及防御体系
+### [信息安全及防御体系]()
 
 * [iptables]()
 
 * [selinux]()
 
-###  网络原理及企业级解决方案架构
+### [网络原理及企业级解决方案架构]()
 
 
 ##  11 [开发相关知识](https://github.com/shower2013/tutorialDevOps/tree/master/develop)
