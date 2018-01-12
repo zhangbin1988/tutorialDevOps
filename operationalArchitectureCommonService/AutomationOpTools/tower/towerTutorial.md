@@ -31,6 +31,7 @@
 
 [帮助文档](http://docs.ansible.com/ansible-tower/)
 
+[Ansible Tower in the Software Development Lifecycle](https://devops.com/ansible-tower-in-the-software-development-lifecycle/)
 
 [redhat-tower](https://access.redhat.com/products/ansible-tower-red-hat)
 
