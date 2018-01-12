@@ -57,6 +57,8 @@
 
 * [racktables](https://github.com/shower2013/tutorialDevOps/tree/master/operationalArchitectureCommonService/AutomationOpTools/racktables)
 
+* [ansible-cmdb]()
+
 * [tower]()
 
 * [CheungSSH]()
