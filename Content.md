@@ -45,6 +45,9 @@
 
 * [foreman](https://github.com/shower2013/tutorialDevOps/tree/master/operationalArchitectureCommonService/AutomationOpTools/foreman)
 
+* [蓝鲸]()
+
+* [jumpserver]()
 
 * [cobbler]()
 
@@ -57,9 +60,9 @@
 
 * [racktables](https://github.com/shower2013/tutorialDevOps/tree/master/operationalArchitectureCommonService/AutomationOpTools/racktables)
 
-* [ansible-cmdb]()
+* [ansible-cmdb](https://github.com/shower2013/tutorialDevOps/tree/master/operationalArchitectureCommonService/AutomationOpTools/ansible-cmdb)
 
-* [tower]()
+* [tower](https://github.com/shower2013/tutorialDevOps/blob/master/operationalArchitectureCommonService/AutomationOpTools/tower/towerTutorial.md)
 
 * [CheungSSH]()
 
