@@ -95,6 +95,11 @@ CI/CD
     私有云   公有云
 
 
+手工操作  脚本自动化  web自动化 调度自动化
+
+
+
+
 
 ## [工具相关](http://bk.tencent.com/s-mart/market)
 
