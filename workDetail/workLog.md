@@ -19,6 +19,48 @@
 ### 2018.01  
 
 
+#### **01.15--01.19**
+---
+
+* [ ]搭建测试环境 （4台）
+* [ ]Django 写一个简单的网站
+* [ ]Ansible Playbook 一键部署zabbix agent  的学习及技术分享
+* [ ]pip 的使用指导书
+
+**周五 2018.01.19**
+
+* [ ] 学习蓝鲸体系 
+* [ ]  
+* [ ]  
+  
+**周四2018.01.18**
+* [ ]  Ansible 权威之前 xmind 更新
+* [ ]  
+* [ ]  
+
+**周三2018.01.17**
+
+* [ ] Ansible 权威之前 xmind 更新
+* [ ] ansible playbook的学习
+* [ ] docker 环境的准备
+
+**周二2018.01.16**
+
+* [ ] zabbix agent rpm 安装包的准备
+* [ ] ansible playbook 使用 rpm 安装包的方式安装zabbix  agent 
+* [ ] 生产环境测试
+
+**周一2018.01.15**
+
+* [ ] 写一个 ansible 部署playbook
+
+  * [ ] 搭建ansible 
+  * [ ]  ansible 免密码登录
+  * [ ]  一键部署zabbix agent 的playbook
+
+
+
+
 #### **01.08--01.12**
 ---
 
