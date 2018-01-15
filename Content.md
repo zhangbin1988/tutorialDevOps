@@ -45,7 +45,7 @@
 
 * [foreman](https://github.com/shower2013/tutorialDevOps/tree/master/operationalArchitectureCommonService/AutomationOpTools/foreman)
 
-* [蓝鲸]()
+* [蓝鲸](https://github.com/shower2013/tutorialDevOps/tree/master/operationalArchitectureCommonService/AutomationOpTools/blueking)
 
 * [jumpserver]()
 
