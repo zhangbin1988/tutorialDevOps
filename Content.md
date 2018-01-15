@@ -19,7 +19,7 @@
 
 ## 2 [自动化运维](https://github.com/shower2013/tutorialDevOps/blob/master/automatedOperation/)
 
-### 2.1 [生产案例](https://github.com/shower2013/tutorialDevOps/blob/master/automatedOperation/productCase.md)
+### 2.1 [echarts 可视化](https://github.com/shower2013/tutorialDevOps/tree/master/automatedOperation/echarts)
 
 ### 2.2 [ELK实时日志分析平台](https://github.com/shower2013/tutorialDevOps/blob/master/automatedOperation/ELKTutorial.md)
 
