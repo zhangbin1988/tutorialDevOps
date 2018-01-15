@@ -12,6 +12,20 @@
 
 ### 2018.01 
 
+#### 2018.01.15
+
+* [ ] 学习Django
+
+[Bug 1492208 - Failed to switch root: Specified switch root path /sysroot does not seem to be an OS tree](https://bugzilla.redhat.com/show_bug.cgi?id=1492208)
+
+
+[switch_root  -  switch to another filesystem as the root of the mount
+       tree](http://man7.org/linux/man-pages/man8/switch_root.8.html)
+
+
+
+
+
 
 #### 2018.01.14
 
