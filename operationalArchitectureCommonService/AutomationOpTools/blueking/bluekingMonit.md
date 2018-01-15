@@ -1,4 +1,4 @@
-# [blueking监控系统]()教程
+# [blueking](https://bk.tencent.com/document/bkprod/000110.html)监控系统教程
 
 ## 概述
 蓝鲸监控是一款针对主机/容器和互联网应用进行监控的产品，监控服务主要收集主机/容器资源（系统性能、组件服务、数据库、日志）的监控指标，
@@ -126,8 +126,8 @@
 ## 引用
 
 
-[]()
+[蓝鲸智云蓝鲸监控产品白皮书](https://bk.tencent.com/document/bkprod/000103.html)
 
-[]()
+[蓝鲸智云体系介绍](https://bk.tencent.com/document/bkprod/000110.html)
 
 []()
