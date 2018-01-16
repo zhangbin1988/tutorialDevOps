@@ -21,7 +21,7 @@
 ## 引用
 
 
-[10 things you should know about ITIL]()
+[10 things you should know about ITIL](https://www.techrepublic.com/article/10-things-you-should-know-about-itil/)
 
 []()
 
