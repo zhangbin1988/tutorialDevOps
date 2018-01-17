@@ -10,6 +10,13 @@
 ## 部署
 
 
+
+## 教程
+
+[ITIL V3 Foundation视频](http://class.qq.com/class/17958.html)
+
+
+
 ## 生产案例
 
 
