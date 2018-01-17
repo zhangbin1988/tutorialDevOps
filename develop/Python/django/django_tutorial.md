@@ -4,7 +4,9 @@
 
 
 
-## 部署
+## 教程
+
+[TRY Django](http://campus.codeschool.com/courses/try-django/level/1/section/1/what-is-django)
 
 
 ## 相关开源项目
