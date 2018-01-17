@@ -156,7 +156,7 @@
 
 ### 11.4 [python教程](https://github.com/shower2013/tutorialDevOps/tree/master/develop/Python)
 
-* [Django]()
+* [Django](https://github.com/shower2013/tutorialDevOps/tree/master/develop/Python/django)
 
 * [Python3]()
 
