@@ -1,4 +1,4 @@
-# Openstack教程
+# [Openstack]()教程
 
 ## 概述
 
@@ -9,6 +9,45 @@
 
 
 ## 架构
+
+
+
+## 部署
+
+
+### openstack-ansible
+[OpenStack-Ansible Deployment Guide](https://docs.openstack.org/project-deploy-guide/openstack-ansible/latest/)
+
+[OpenStack-Ansible Git](https://git.openstack.org/cgit/openstack/openstack-ansible)
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+
+
+
+
+
+
+
+
 
 
 
@@ -24,14 +63,14 @@
 
 
 
-###　高级教程
+### 高级教程
 
 
 
 
 
 
-##　生产案例
+## 生产案例
 
 
 
