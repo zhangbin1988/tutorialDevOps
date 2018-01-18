@@ -71,7 +71,7 @@ Haystack为Django提供了模块化搜索。它提供了一个统一的、熟悉
 
 []()
 
-[]()
+[Django开源项目集合](https://juejin.im/repos/filtered?tag=Python_Web%20开发_Django)
 
 
 [Django Admin Interface](http://grappelliproject.com)
@@ -95,7 +95,7 @@ rappelli is a grid-based alternative/extension to the Django administration inte
 ## 引用
 
 
-[]()
+[BAT等大厂已开源的70个实用工具盘点](https://juejin.im/post/59df812c51882578b43e3af7)
 
 []()
 
