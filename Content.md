@@ -94,9 +94,9 @@
 
 
 
-### 3.6 常用命令
+### 3.6 [常用命令](https://github.com/shower2013/tutorialDevOps/tree/master/operationalArchitectureCommonService/os_command/)
 
-* awk
+* [awk]()
 
 
 
