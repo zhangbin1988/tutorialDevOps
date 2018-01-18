@@ -105,9 +105,9 @@
 ## 5  [Docker最佳实践]()
 
 
-## 6 [openstack私有云]()
+## 6 [openstack私有云](https://github.com/shower2013/tutorialDevOps/tree/master/cloud)
 
-### [openstack]()
+### [openstack](https://github.com/shower2013/tutorialDevOps/tree/master/cloud/openstack)
 
 ##  7 [机器学习](https://github.com/shower2013/tutorialDevOps/tree/master/machineLearn) <br>
 
