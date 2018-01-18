@@ -24,12 +24,24 @@
 
 
 
+![基于ITIL 的服务交付管理（Service Delivery）](http://www.techexcel.com.cn/images/newStyle/ITIL/ServiceSupport.png)
+
+![基于ITIL 的服务支持管理（Service Support）](http://www.techexcel.com.cn/images/newStyle/ITIL/ServiceDelivery.png)
+
+
+![]()
+
+
+![]()
+
+
+
 
 ## 引用
 
 
 [10 things you should know about ITIL](https://www.techrepublic.com/article/10-things-you-should-know-about-itil/)
 
-[]()
+[基于ITIL实践的ITSM解决方案](http://www.techexcel.com.cn/solutions/servicewise/servicewiseitsm.html?bdclkid=drL_JaMfUnvklpchdkK4rGtntaPK0gs6_utNl8Rua0nP)
 
 []()
