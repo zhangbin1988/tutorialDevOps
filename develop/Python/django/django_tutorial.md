@@ -9,7 +9,7 @@
 [TRY Django](http://campus.codeschool.com/courses/try-django/level/1/section/1/what-is-django)
 
 
-## 相关开源项目
+## 相关[开源项目集](https://github.com/rosarior/awesome-django)
 
 
 
@@ -63,9 +63,11 @@ Haystack为Django提供了模块化搜索。它提供了一个统一的、熟悉
 [ django-extensions documentation](https://django-extensions.readthedocs.io/en/latest/)
 
 
-[]()
+[django-debug-toolbar](https://github.com/jazzband/django-debug-toolbar)
+Django调试工具栏是一组可配置的面板，显示有关当前请求/响应的各种调试信息，单击时显示有关面板内容的更多详细信息。
 
-[]()
+[Django Debug Toolbar](https://django-debug-toolbar.readthedocs.io/en/stable/)
+
 
 []()
 
