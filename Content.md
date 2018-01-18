@@ -84,11 +84,13 @@
 
 ### 3.5 [监控](https://github.com/shower2013/tutorialDevOps/tree/master/operationalArchitectureCommonService/monit/)
 
-#### 3.5.1 [系统监控](https://github.com/shower2013/tutorialDevOps/tree/master/operationalArchitectureCommonService/monit/system)
+#### 3.5.1 [系统监控工具](https://github.com/shower2013/tutorialDevOps/tree/master/operationalArchitectureCommonService/monit/system)
 
 * [sysdig](https://github.com/shower2013/tutorialDevOps/blob/master/operationalArchitectureCommonService/monit/system/sysdigTutorial.md)
 
 
+### 3.5.2 监控系统解决方案
+* [cabot](https://github.com/shower2013/tutorialDevOps/tree/master/operationalArchitectureCommonService/monit/cabot)
 
 
 
