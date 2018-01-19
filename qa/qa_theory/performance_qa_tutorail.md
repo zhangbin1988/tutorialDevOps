@@ -89,6 +89,6 @@
 [Atlas的性能测试](https://github.com/Qihoo360/Atlas/wiki/Atlas的性能测试)
 
 
-
+[51testing性能测试文章集合](http://www.51testing.com/html/93/category-catid-93.html)
 
 
