@@ -81,3 +81,12 @@
 
 ### 测试报告内容大纲
 
+
+## 引用 
+
+[Atlas的性能测试](https://github.com/Qihoo360/Atlas/wiki/Atlas的性能测试)
+
+
+
+
+
