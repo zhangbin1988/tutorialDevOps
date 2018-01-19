@@ -117,8 +117,8 @@
 
 ## 教程
 
-[]()
-[]()
+[Jmeter教程](http://www.91testing.net/course/10/task/1253/show)
+[性能测试入门教程](http://www.91testing.net/course/20)
 
 
 ## 案例
@@ -153,11 +153,11 @@
 
 [给你的程序做性能测试](http://python3-cookbook.readthedocs.io/zh_CN/latest/c14/p13_profiling_and_timing_your_program.html)
 
-[]()
+[如何做性能测试](http://www.importnew.com/26897.html)
 
-[]()
+[性能测试文章集](http://www.ltesting.net/ceshi/ceshijishu/xncs/)
 
-[]()
+[Web网站压力及性能测试](https://segmentfault.com/a/1190000011469759)
 
 []()
 
