@@ -8,8 +8,12 @@
 
 ## 业务性能测试概述
 
+[性能测试-概念篇-性能测试分类](https://www.jianshu.com/p/90a7d333fb66)
+
 
 ![](http://www.51testing.com/attachments/2017/12/15201284_2017122914165015YOp.png)
+
+
 
 
 ### 背景与目的
@@ -47,6 +51,8 @@
 * 带宽
 * FIO
 
+
+
 ## 网络拓扑
 
 ## 被测试环境配置描述
@@ -71,6 +77,16 @@
 ## 测试方案
 
 
+### 性能测试常用指标
+
+[性能测试常用指标](http://www.91testing.net/course/20/task/631/show)
+
+[性能测试中服务器关键性能指标浅析](http://www.aloo.me/2016/08/01/性能测试中服务器关键性能指标浅析/)
+
+
+
+
+
 
 ### 测试工具的技术选型
 
@@ -78,6 +94,10 @@
 
 [系统监控-nmon使用](http://tonylit.me/2015/12/17/系统监控-nmon使用/)
 
+### Jenkins+gatling
+
+[Gatling脚本编写](http://tonylit.me/2016/08/05/Gatling脚本编写/)
+[Gatling入门](http://tonylit.me/2016/08/02/Gatling入门/)
 
 
 ## 测试场景
@@ -87,6 +107,18 @@
 ### 测试报告内容大纲
 
 
+[性能测试报告](https://dubbo.gitbooks.io/dubbo-user-book/perf-test.html)
+
+
+
+## 竞品分析
+
+[性能测试 PTS](https://www.aliyun.com/product/pts)
+
+## 教程
+
+[]()
+[]()
 
 
 ## 案例
@@ -112,17 +144,25 @@
 
 [性能测试--地铁模型分析](http://www.cnblogs.com/puresoul/p/5458734.html)
 
+[支付宝的性能测试](http://www.infoq.com/cn/articles/performance-test-of-zhifubao)
+
+[性能测试](https://www.zhihu.com/topic/19618663/hot)
+
+[从0到1：打造移动端H5性能测试平台](https://cloud.tencent.com/developer/article/1004580)
+
+
+[给你的程序做性能测试](http://python3-cookbook.readthedocs.io/zh_CN/latest/c14/p13_profiling_and_timing_your_program.html)
+
+[]()
+
 []()
 
 []()
 
 []()
+
 []()
-[]()
-[]()
-[]()
-[]()
-[]()
+
 []()
 
 
@@ -131,16 +171,28 @@
 
 ## 引用 
 
+
 [性能测试指南](http://tonylit.me/2016/08/04/性能测试指南/)
 
 [性能测试总结(一)---基础理论篇](http://www.cnblogs.com/puresoul/p/5456855.html)
 
 [性能测试-百度百科](https://baike.baidu.com/item/性能测试)
 
+[系统吞吐量（TPS）、用户并发量、性能测试概念和公式](http://www.ha97.com/5095.html)
 
 [Atlas的性能测试](https://github.com/Qihoo360/Atlas/wiki/Atlas的性能测试)
 
 
 [51testing性能测试文章集合](http://www.51testing.com/html/93/category-catid-93.html)
+
+
+[新人如何学习性能测试?](https://www.zhihu.com/question/22229787)
+
+
+
+
+
+
+
 
 
