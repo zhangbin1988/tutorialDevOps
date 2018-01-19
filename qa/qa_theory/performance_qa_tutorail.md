@@ -106,9 +106,9 @@
 
 [构建自动化性能测试系统的实践](http://www.51testing.com/html/79/n-3723279.html)
 
-[]()
+[理发店模型](http://www.cnblogs.com/jackei/archive/2006/11/20/565527.html)
 
-[]()
+[性能测试--地铁模型分析](http://www.cnblogs.com/puresoul/p/5458734.html)
 
 []()
 
@@ -129,6 +129,8 @@
 
 ## 引用 
 
+
+[性能测试总结(一)---基础理论篇](http://www.cnblogs.com/puresoul/p/5456855.html)
 
 [性能测试-百度百科](https://baike.baidu.com/item/性能测试)
 
