@@ -84,6 +84,8 @@
 
 ## 引用 
 
+[性能测试-百度百科](https://baike.baidu.com/item/性能测试)
+
 [Atlas的性能测试](https://github.com/Qihoo360/Atlas/wiki/Atlas的性能测试)
 
 
