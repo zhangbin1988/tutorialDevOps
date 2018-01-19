@@ -16,6 +16,7 @@
 [ITIL V3 Foundation视频](http://class.qq.com/class/17958.html)
 
 
+[ITIL视频](http://list.youku.com/albumlist/show?id=5286791&ascending=1&page=1)
 
 ## 生产案例
 
