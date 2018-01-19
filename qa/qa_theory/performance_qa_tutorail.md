@@ -9,6 +9,9 @@
 ## 业务性能测试概述
 
 
+![](http://www.51testing.com/attachments/2017/12/15201284_2017122914165015YOp.png)
+
+
 ### 背景与目的
 
 
@@ -82,9 +85,53 @@
 ### 测试报告内容大纲
 
 
+
+
+## 案例
+
+[性能测试：一个完整的性能测试过程](http://www.51testing.com/html/68/n-3723568.html)
+
+
+
+
+## 阅读材料 
+
+[性能测试的艺术](http://www.51testing.com/html/16/n-3723716.html)
+
+[性能测试的7个关键](http://www.51testing.com/html/93/n-3723693.html)
+
+[linux服务器性能测试脚本serverreview-benchmark](http://www.51testing.com/html/02/n-3723602.html)
+
+[软件性能测试策略及流程](http://www.51testing.com/html/82/n-3723482.html)
+
+[构建自动化性能测试系统的实践](http://www.51testing.com/html/79/n-3723279.html)
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+
+
+
+
+
 ## 引用 
 
+
 [性能测试-百度百科](https://baike.baidu.com/item/性能测试)
+
 
 [Atlas的性能测试](https://github.com/Qihoo360/Atlas/wiki/Atlas的性能测试)
 
