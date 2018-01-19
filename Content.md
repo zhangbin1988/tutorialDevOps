@@ -137,7 +137,7 @@
 
 ### [测试理论基础知识]()
 
-* [性能测试]() 
+* [性能测试](https://github.com/shower2013/tutorialDevOps/blob/master/qa/qa_theory/performance_qa_tutorail.md) 
 
 * 压力测试
 
