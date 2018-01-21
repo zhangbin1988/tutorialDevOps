@@ -16,9 +16,9 @@
 
 [Tutorail Content](https://docs.oracle.com/javase/tutorial/reallybigindex.html)
 
-[]()
+[Java入门教程：最全面最简单的Java基础教程](http://www.weixueyuan.net/java/rumen/)
 
-[]()
+[Java 教程](http://www.runoob.com/java/java-tutorial.html)
 
 []()
 
