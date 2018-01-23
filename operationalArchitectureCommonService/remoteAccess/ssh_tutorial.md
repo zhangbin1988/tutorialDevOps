@@ -21,8 +21,20 @@ protocol page. To understand the SSH File Transfer Protocol, see the SFTP page.
 ## 生产案例
 
 
+### ssh命令之ProxyCommand
+
+[ssh命令之ProxyCommand选项](https://dslztx.github.io/blog/2017/05/19/ssh命令之ProxyCommand选项/)
+
+[]()
 
 
+
+
+## 教程
+
+[Linux SSH服务讲解与实战视频课程](http://edu.51cto.com/course/6231.html)
+
+[详解SSH端口转发视频课程](http://edu.51cto.com/course/1183.html)
 
 
 
