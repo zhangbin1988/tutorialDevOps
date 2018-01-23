@@ -165,7 +165,7 @@
 
 * [LVS]()
 * [KeepAlive]() 
-* [Nginx]() 
+* [Nginx](https://github.com/shower2013/tutorialDevOps/tree/master/operationalArchitectureCommonService/load_balancer/nginx) 
 * [HAProxy]()
 
 ### [信息安全及防御体系]()
