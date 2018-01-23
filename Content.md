@@ -76,7 +76,11 @@
 
 * [gateOne](https://github.com/shower2013/tutorialDevOps/blob/master/operationalArchitectureCommonService/remoteAccess/gateone.md)
 
-* [snmp 简单网络管理协议之学习路线](https://github.com/shower2013/tutorialDevOps/blob/master/operationalArchitectureCommonService/snmpTutorial.md)
+* [ssh](https://github.com/shower2013/tutorialDevOps/blob/master/operationalArchitectureCommonService/remoteAccess/ssh_tutorial.md)
+
+* [snmp](https://github.com/shower2013/tutorialDevOps/blob/master/operationalArchitectureCommonService/snmpTutorial.md)
+
+
 
  [snmptrap 教程](https://github.com/shower2013/tutorialDevOps/blob/master/operationalArchitectureCommonService/snmpTrap.md)
 
