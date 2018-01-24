@@ -21,6 +21,11 @@
 [SSH ProxyCommand及其思想](http://blog.csdn.net/asx20042005/article/details/7041287)
 
 
+### ansible 管理服务器并创建密码 
+
+[创建密码密文](http://docs.ansible.com/ansible/latest/faq.html#how-do-i-generate-crypted-passwords-for-the-user-module)
+
+[user - Manage user accounts](http://docs.ansible.com/ansible/latest/user_module.html)
 
 
 
