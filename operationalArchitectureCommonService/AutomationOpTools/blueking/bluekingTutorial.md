@@ -140,27 +140,18 @@ CI/CD
 
 
 
+## 部署
+
+[下载地址](http://bk.tencent.com/download/)
+
+[蓝鲸智云社区版V3.1用户手册](http://bbs.bk.tencent.com/forum.php?mod=viewthread&tid=505&extra=page%3D1)
+
+
+
 
 ## 教程
 
 [从0到1 掌握蓝鲸DevOps技能](https://ke.qq.com/course/187459#tuin=218e4713)
-
-
-
-
-
-
-## 引用
-
-[下载地址](http://bk.tencent.com/download/)
-
-[蓝鲸论坛](http://bbs.bk.tencent.com/forum.php)
-
-[蓝鲸智云社区版V3.1用户手册](http://bbs.bk.tencent.com/forum.php?mod=viewthread&tid=505&extra=page%3D1)
-
-[CentOS 6.8 部署腾讯蓝鲸运维平台](http://www.linuxprobe.com/centos6-8-deploy-blueking-platform.html)
-
-[蓝鲸社区版API](http://bk.tencent.com/document/bkapi)
 
 
 [【分享】腾讯蓝鲸体系架构及设计思想](http://blog.csdn.net/liuxinsysu/article/details/51251587)
@@ -168,6 +159,19 @@ CI/CD
 [腾讯蓝鲸开源项目与云计算运维平台框架标准发布](http://www.yunweipai.com/archives/24205.html)
 
 [【自动化运维】初识腾讯蓝鲸！](http://blog.csdn.net/liuxinsysu/article/details/51247753)
+
+
+
+## 阅读材料
+
+[CentOS 6.8 部署腾讯蓝鲸运维平台](http://www.linuxprobe.com/centos6-8-deploy-blueking-platform.html)
+
+
+## 引用
+
+[蓝鲸论坛](http://bbs.bk.tencent.com/forum.php)
+
+[蓝鲸社区版API](http://bk.tencent.com/document/bkapi)
 
 [官网](http://bk.tencent.com)
 
