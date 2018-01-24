@@ -9,6 +9,11 @@
 
 ### 概述
 
+
+
+![蓝鲸架构](http://bk.tencent.com/document/static/images/bk/bkIntroduction/allView.png)
+
+
 蓝鲸智云，简称蓝鲸， 一套基于PaaS的解决方案
 * "运维基础服务" 的无人值守
 * "运维增值服务" 的低成本实现
