@@ -26,7 +26,9 @@ Coco: ssh -p 2222 admin@demo.jumpserver.org 密码: admin
 
 
 
-## 
+## 阅读材料
+
+[Github 2450星的开源跳板机Jumpserver新版发布！](http://www.yunweipai.com/archives/18349.html)
 
 
 
