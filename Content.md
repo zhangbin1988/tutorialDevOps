@@ -47,7 +47,7 @@
 
 * [蓝鲸](https://github.com/shower2013/tutorialDevOps/tree/master/operationalArchitectureCommonService/AutomationOpTools/blueking)
 
-* [jumpserver]()
+* [jumpserver](https://github.com/shower2013/tutorialDevOps/tree/master/operationalArchitectureCommonService/AutomationOpTools/jumpserver)
 
 * [cobbler]()
 
