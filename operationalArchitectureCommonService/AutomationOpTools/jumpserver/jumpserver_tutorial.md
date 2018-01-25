@@ -19,6 +19,9 @@ Coco: ssh -p 2222 admin@demo.jumpserver.org 密码: admin
 ## 部署
 
 
+### [v0.5.0 基于 CentOS7](https://github.com/jumpserver/jumpserver/wiki/v0.5.0-基于-CentOS7)
+
+
 ### [Docker 镜像](https://github.com/jumpserver/jumpserver/wiki/Docker-镜像)
 
 
