@@ -111,12 +111,11 @@
 
 ### [Jenkins]()
 
-## 5  [Docker最佳实践]()
+## 5 [云计算](https://github.com/shower2013/tutorialDevOps/tree/master/cloud)
 
+### 5.1 [Docker](https://github.com/shower2013/tutorialDevOps/tree/master/cloud/docker)
 
-## 6 [openstack私有云](https://github.com/shower2013/tutorialDevOps/tree/master/cloud)
-
-### [openstack](https://github.com/shower2013/tutorialDevOps/tree/master/cloud/openstack)
+### 5.2 [openstack](https://github.com/shower2013/tutorialDevOps/tree/master/cloud/openstack)
 
 ##  7 [机器学习](https://github.com/shower2013/tutorialDevOps/tree/master/machineLearn) <br>
 
@@ -132,8 +131,6 @@
 
 
 ### [智能测试平台]()
-
-
 
 ### 自动化测试工具 
 
