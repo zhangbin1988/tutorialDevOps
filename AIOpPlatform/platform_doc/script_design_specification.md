@@ -7,6 +7,14 @@
 
 ![蓝鲸体系架构图](http://bk.tencent.com/document/static/images/bk/bkIntroduction/allView.png)
 
+![智能运维平台架构](http://www.szlanyou.com/Uploads/201711/59ffc78543a1e.png)
+
+![自动化](http://www.szlanyou.com/Uploads/201711/59ffc7974aa86.png)
+
+![可视化](http://www.szlanyou.com/Uploads/201711/59ffc7a8b39c2.png)
+
+![智能化](http://www.szlanyou.com/Uploads/201711/59ffc7b695fab.png)
+
 ![平台](http://blog.shurenyun.com/content/images/2016/05/----------------20160019.jpg)
 
 ## 脚本框架设计
@@ -88,16 +96,22 @@
 ![作业平台](http://tektea-img.b0.upaiyun.com/blog/2017/11/53.jpg)
 
 
-![在 Facebook，我是这样做运维的](http://www.yunweipai.com/archives/23957.html)
+[在 Facebook，我是这样做运维的](http://www.yunweipai.com/archives/23957.html)
 
 
-![游戏运维的最佳实践：搜狐畅游自动化运维之旅！](http://www.yunweipai.com/archives/21912.html)
+[游戏运维的最佳实践：搜狐畅游自动化运维之旅！](http://www.yunweipai.com/archives/21912.html)
 
 
-![顺丰全栈资源下的自动化运维灵魂](http://www.yunweipai.com/archives/24437.html)
+[顺丰全栈资源下的自动化运维灵魂](http://www.yunweipai.com/archives/24437.html)
 
 
-![SRE，DevOps，PE的运维本质和价值都是为产品和业务服务](http://www.yunweipai.com/archives/14621.html)
+[SRE，DevOps，PE的运维本质和价值都是为产品和业务服务](http://www.yunweipai.com/archives/14621.html)
+
+[运维自动化闭环，从腾讯走出来的实践](http://blog.shurenyun.com/117-shurenyun-huodong/)
+
+
+[如何设计并实现一个通用的应用运维管控平台](http://zhuanlan.51cto.com/art/201704/538113.htm)
+
 
 ## 引用
 
