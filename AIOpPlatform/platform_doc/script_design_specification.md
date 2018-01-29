@@ -59,6 +59,53 @@
 
 
 
-##
+## 阅读材料
+
+![标准化](http://tektea-img.b0.upaiyun.com/blog/2017/11/110.jpg)
+
+
+![CMDB](http://tektea-img.b0.upaiyun.com/blog/2017/11/25.jpg)
+
+
+![业务集群模块主机](http://tektea-img.b0.upaiyun.com/blog/2017/11/33.jpg)
+
+
+![主机关系](http://tektea-img.b0.upaiyun.com/blog/2017/11/43.jpg)
+
+
+**一切皆作业**
+
+![作业平台](http://tektea-img.b0.upaiyun.com/blog/2017/11/53.jpg)
+
+
+![]()
+
+
+![]()
+
+
+![]()
+
+
+![]()
+
+## 引用
+
+[中小型运维团队如何设计运维自动化平台](http://www.yunweipai.com/archives/23930.html)
+
+[]()
+
+[]()
+
+[]()
+
+
+[]()
+
+[]()
+
+[]()
+
+[]()
 
 
