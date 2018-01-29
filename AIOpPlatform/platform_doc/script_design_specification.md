@@ -7,6 +7,7 @@
 
 ![蓝鲸体系架构图](http://bk.tencent.com/document/static/images/bk/bkIntroduction/allView.png)
 
+![平台](http://blog.shurenyun.com/content/images/2016/05/----------------20160019.jpg)
 
 
 ## 脚本框架设计
@@ -68,6 +69,9 @@
 
 ## 阅读材料
 
+[新一代运维管理平台建设的七种武器](http://www.yunweipai.com/archives/23945.html)
+
+
 ![标准化](http://tektea-img.b0.upaiyun.com/blog/2017/11/110.jpg)
 
 
@@ -85,16 +89,16 @@
 ![作业平台](http://tektea-img.b0.upaiyun.com/blog/2017/11/53.jpg)
 
 
-![]()
+![在 Facebook，我是这样做运维的](http://www.yunweipai.com/archives/23957.html)
 
 
-![]()
+![游戏运维的最佳实践：搜狐畅游自动化运维之旅！](http://www.yunweipai.com/archives/21912.html)
 
 
-![]()
+![顺丰全栈资源下的自动化运维灵魂](http://www.yunweipai.com/archives/24437.html)
 
 
-![]()
+![SRE，DevOps，PE的运维本质和价值都是为产品和业务服务](http://www.yunweipai.com/archives/14621.html)
 
 ## 引用
 
