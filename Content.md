@@ -10,11 +10,7 @@
 
 ####  1.1.1 [Zabbix监控解决方案](https://github.com/shower2013/tutorialDevOps/blob/master/AIOpPlatform/zabbix/zabbixMonitor.md) 
  
-### [竞品分析]()
 
-#### [Prometheus](https://prometheus.io/)
-
-#### [Grafana](https://grafana.com/)
 
 
 ## 2 [自动化运维](https://github.com/shower2013/tutorialDevOps/blob/master/automatedOperation/)
@@ -92,9 +88,17 @@
 
 * [sysdig](https://github.com/shower2013/tutorialDevOps/blob/master/operationalArchitectureCommonService/monit/system/sysdigTutorial.md)
 
+* [glances](https://github.com/shower2013/tutorialDevOps/blob/master/operationalArchitectureCommonService/monit/system/glances_tutorial.md)
+
 
 ### 3.5.2 监控系统解决方案
 * [cabot](https://github.com/shower2013/tutorialDevOps/tree/master/operationalArchitectureCommonService/monit/cabot)
+
+
+
+* [Prometheus](https://prometheus.io/)
+
+* [Grafana](https://grafana.com/)
 
 
 
