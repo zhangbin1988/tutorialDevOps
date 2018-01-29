@@ -2,6 +2,13 @@
 
 [TOC]
 
+## 概述
+
+
+![蓝鲸体系架构图](http://bk.tencent.com/document/static/images/bk/bkIntroduction/allView.png)
+
+
+
 ## 脚本框架设计
 
 ### 设计思路
