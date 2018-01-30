@@ -7,6 +7,10 @@
 ## 部署
 
 
+## 相关开源项目
+
+[ansible-api](https://github.com/lfbear/ansible-api)
+
 ## 生产案例
 
 
