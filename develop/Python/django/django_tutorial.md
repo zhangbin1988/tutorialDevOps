@@ -1,4 +1,4 @@
-# [django]()教程
+# [django](https://www.djangoproject.com)教程
 
 ## 概述
 
@@ -6,7 +6,27 @@
 
 ## 教程
 
+[Django Web 框架(python)](https://developer.mozilla.org/zh-CN/docs/learn/Server-side/Django)
+
+[]()
+
+[]()
+
+[]()
+
+[Django Carrots](https://github.com/ggcarrots/django-carrots)
+
+
 [TRY Django](http://campus.codeschool.com/courses/try-django/level/1/section/1/what-is-django)
+
+[Getting started with Django](https://www.djangoproject.com/start/)
+
+
+[Django documentation contents](https://docs.djangoproject.com/en/2.0/contents/)
+
+[Django Girls 教程](https://tutorial.djangogirls.org/zh/)
+
+
 
 
 ## 相关[开源项目集](https://github.com/rosarior/awesome-django)
@@ -72,15 +92,7 @@ Django调试工具栏是一组可配置的面板，显示有关当前请求/响�
 []()
 
 
-[]()
 
-[]()
-
-[]()
-
-[]()
-
-[]()
 
 
 []()
@@ -130,6 +142,11 @@ rappelli is a grid-based alternative/extension to the Django administration inte
 
 
 ## 引用
+
+
+[Django documentation](https://docs.djangoproject.com/en/2.0/)
+
+[]()
 
 
 [BAT等大厂已开源的70个实用工具盘点](https://juejin.im/post/59df812c51882578b43e3af7)
