@@ -77,8 +77,24 @@
 
 ### 返回值
 
+## 技术栈
 
-
+* javascript
+* bootstrap
+* django
+* python
+* mysql
+* redis
+* celery
+* psutil
+* ansible
+* paramiko
+* pexpect
+* psutil
+* glances
+* requets
+* httpie
+* docker
 
 
 ## 生产案例
