@@ -8,7 +8,7 @@
 
 [Django Web 框架(python)](https://developer.mozilla.org/zh-CN/docs/learn/Server-side/Django)
 
-[]()
+[The Django Book](http://djangobook.py3k.cn/2.0/)
 
 []()
 
