@@ -169,6 +169,8 @@ CI/CD
 
 ## 引用
 
+[产品介绍](http://bk.tencent.com/document/bkprod/000110.html)
+
 [蓝鲸论坛](http://bbs.bk.tencent.com/forum.php)
 
 [蓝鲸社区版API](http://bk.tencent.com/document/bkapi)
