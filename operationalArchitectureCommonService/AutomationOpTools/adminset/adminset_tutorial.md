@@ -16,6 +16,13 @@
 
 
 
+## 类似项目
+
+[opsadmin](https://github.com/itnihao/opsadmin)
+
+[opsadmin网站](http://www.itnihao.com/opsadmin/opsadmin-view.html)
+
+[作者博客](http://blog.51cto.com/itnihao)
 
 ## 引用
 
