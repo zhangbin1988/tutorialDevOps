@@ -10,6 +10,16 @@
 
 ####  1.1.1 [Zabbix监控解决方案](https://github.com/shower2013/tutorialDevOps/blob/master/AIOpPlatform/zabbix/zabbixMonitor.md) 
  
+### AI 
+
+
+### [运维平台设计](https://github.com/shower2013/tutorialDevOps/tree/master/AIOpPlatform/platform_doc)
+
+#### 脚本框架设计说明书
+
+#### 竞品分析
+
+* 
 
 
 
