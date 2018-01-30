@@ -18,6 +18,12 @@
 
 ## 类似项目
 
+[roncoo-cmdb](https://github.com/roncoo/roncoo-cmdb)
+
+[roncoo视频教程](http://www.roncoo.com/course/view/a2d58fe08172447696412fb7af1de620#boxTwo)
+
+[]()
+
 [opsadmin](https://github.com/itnihao/opsadmin)
 
 [opsadmin网站](http://www.itnihao.com/opsadmin/opsadmin-view.html)
