@@ -43,6 +43,8 @@
 * [redis]()
 * [mongodb]()
 * [rabbitmq]()
+* [phpMyAdmin]()
+
 
 
 ### 3.3 [自动化工具](https://github.com/shower2013/tutorialDevOps/tree/master/operationalArchitectureCommonService/AutomationOpTools)
