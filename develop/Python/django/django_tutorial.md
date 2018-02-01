@@ -10,9 +10,15 @@
 
 [The Django Book](http://djangobook.py3k.cn/2.0/)
 
-[]()
+[Django中文文档1.8](https://wizardforcel.gitbooks.io/django-chinese-docs-18/content/)
 
-[]()
+[Django 设计模式与最佳实践](https://www.gitbook.com/book/wizardforcel/django-design-patterns-and-best-practices/details)
+
+
+[Django 网站开发 Cookbook](https://www.gitbook.com/book/wizardforcel/web-development-with-django-cookbook/details)
+
+[Django Book 2.0 中文版](https://www.gitbook.com/book/wizardforcel/django-book-20-zh-cn/details)
+
 
 [Django Carrots](https://github.com/ggcarrots/django-carrots)
 
@@ -146,7 +152,7 @@ rappelli is a grid-based alternative/extension to the Django administration inte
 
 [Django documentation](https://docs.djangoproject.com/en/2.0/)
 
-[]()
+[开源免费电子书](https://www.gitbook.com/@wizardforcel)
 
 
 [BAT等大厂已开源的70个实用工具盘点](https://juejin.im/post/59df812c51882578b43e3af7)
