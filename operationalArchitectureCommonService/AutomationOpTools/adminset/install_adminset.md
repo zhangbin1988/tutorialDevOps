@@ -10,11 +10,23 @@
 |webssh|------|------|------|------|
 |ssh|------|------|------|------|
 |celery|------|------|------|------|
+|adminset|------|/var/opt/adminset|------|------|
 
 
 ## 部署概述
 
 ### 服务器端部署
+
+* **安装路径**
+  * /var/opt/adminset/main
+    * /var/opt/adminset/main/pid
+  * /var/opt/adminset/data
+    * /var/opt/adminset/data/scripts
+    * /var/opt/adminset/data/ansible/playbook
+    * /var/opt/adminset/data/ansible/roles
+  * /var/opt/adminset/config
+    * /var/opt/adminset/config/ssh
+  * /var/opt/adminset/logs
 
 
 ### 客户端部署
@@ -26,6 +38,9 @@
 
 
 ### [服务器端部署](https://github.com/guohongze/adminset/blob/master/install/server/server_install.sh)
+
+
+
 
 
 ### [客户端部署]()
