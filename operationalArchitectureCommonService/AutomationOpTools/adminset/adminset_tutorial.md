@@ -3,10 +3,12 @@
 ## 概述
 自动化运维平台：CMDB、CD、DevOps、资产管理、任务编排、持续交付、系统监控、运维管理、配置管理
 
+### 功能介绍
 
 
 
-## 部署
+## [部署](https://github.com/shower2013/tutorialDevOps/blob/master/operationalArchitectureCommonService/AutomationOpTools/adminset/install_adminset.md)
+
 
 
 ## 生产案例
