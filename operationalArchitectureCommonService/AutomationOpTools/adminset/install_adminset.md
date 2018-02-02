@@ -21,8 +21,8 @@
   * /var/opt/adminset/main
     * /var/opt/adminset/main/pid
   * /var/opt/adminset/data
-    * /var/opt/adminset/data/scripts
-    * /var/opt/adminset/data/ansible/playbook
+    * /var/opt/adminset/data/scripts
+    * /var/opt/adminset/data/ansible/playbook
     * /var/opt/adminset/data/ansible/roles
   * /var/opt/adminset/config
     * /var/opt/adminset/config/ssh
