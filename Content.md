@@ -37,9 +37,9 @@
 
 ### 3.1 [不同行业的系统架构](https://github.com/shower2013/tutorialDevOps/tree/master/operationalArchitectureCommonService/industryArchitecture)
 
-### 3.2  [DB]() 
+### 3.2  [DB](https://github.com/shower2013/tutorialDevOps/tree/master/operationalArchitectureCommonService/DB) 
 
-* [mysql]()
+* [mysql](https://github.com/shower2013/tutorialDevOps/tree/master/operationalArchitectureCommonService/DB/mysql)
 * [redis]()
 * [mongodb]()
 * [rabbitmq]()
