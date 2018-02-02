@@ -19,6 +19,8 @@
 
 [Django Book 2.0 中文版](https://www.gitbook.com/book/wizardforcel/django-book-20-zh-cn/details)
 
+[]()
+
 
 [Django Carrots](https://github.com/ggcarrots/django-carrots)
 
