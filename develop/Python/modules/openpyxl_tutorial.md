@@ -7,7 +7,9 @@
 ## 部署
 
 
-## 生产案例
+## 阅读材料
+
+[Python-Excel 模块哪家强？](https://zhuanlan.zhihu.com/p/23998083)
 
 
 
