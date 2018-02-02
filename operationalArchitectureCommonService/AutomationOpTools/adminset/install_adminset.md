@@ -45,6 +45,11 @@
 
 `yum install -y gcc python-pip expect python-devel ansible smartmontools dmidecode libselinux-python`
 
+安装[webssh](https://github.com/xsank/webssh) 
+
+ * [安装文档](http://xsank.com/webssh/)
+
+
 
 
 
