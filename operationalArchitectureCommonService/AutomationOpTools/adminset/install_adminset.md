@@ -39,6 +39,11 @@
 
 ### [服务器端部署](https://github.com/guohongze/adminset/blob/master/install/server/server_install.sh)
 
+关闭 selinux 
+
+安装依赖
+
+`yum install -y gcc python-pip expect python-devel ansible smartmontools dmidecode libselinux-python`
 
 
 
