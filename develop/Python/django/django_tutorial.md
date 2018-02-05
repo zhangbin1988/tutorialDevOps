@@ -4,6 +4,11 @@
 
 
 
+
+
+![djangoVersion](https://www.djangoproject.com/s/img/release-roadmap.e844db08610e.png)
+
+
 ## 教程
 
 [Django Web 框架(python)](https://developer.mozilla.org/zh-CN/docs/learn/Server-side/Django)
